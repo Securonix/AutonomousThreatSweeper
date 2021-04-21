@@ -1,0 +1,21 @@
+Key Functionalities:
+Authentication / SSO / Single Sign-On / VPN (cloud/on-premise)
+Antivirus / Malware / EDR (cloud/on-premise)
+Cloud Services / Applications
+DNS / DHCP
+Email / Email Security (cloud/on-premise)
+Endpoint Management Systems
+Firewall / Next Generation Firewall
+IDS / IPS / UTM / Threat Detection
+Microsoft Windows
+Microsoft Windows Powershell
+Web Application Firewall
+Web Proxy
+
+
+Preferred Functionalities:
+Flow
+Netflow / Sinkhole
+Network Traffic Analytics
+Operating Systems
+Traffic Manager
