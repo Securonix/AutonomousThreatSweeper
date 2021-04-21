@@ -1,0 +1,2 @@
+1. https://www.uptycs.com/blog/icedid-campaign-spotted-being-spiced-with-excel-4-macros
+2. https://awakesecurity.com/blog/detecting-icedid-and-cobalt-strike-beacon-with-network-detection-and-response/
