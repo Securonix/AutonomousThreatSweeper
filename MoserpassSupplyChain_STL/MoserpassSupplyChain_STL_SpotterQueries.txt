@@ -1,0 +1,3 @@
+rg_functionality="Web Proxy" AND RequestURL NOT NULL AND RequestURL CONTAINS "upgrade_service_upgrade.zip"
+rg_functionality="Firewall" AND RequestURL NOT NULL AND RequestURL CONTAINS "upgrade_service_upgrade.zip"
+rg_functionality="Web Server" AND RequestURL NOT NULL AND RequestURL CONTAINS "upgrade_service_upgrade.zip"
