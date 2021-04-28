@@ -1,0 +1,11 @@
+rg_functionality="Web Proxy" AND RequestURL NOT NULL  AND RequestURL CONTAINS  "/dana-na/"
+rg_functionality="Firewall" AND RequestURL NOT NULL  AND RequestURL CONTAINS  "/dana-na/"
+rg_functionality="Web Server" AND RequestURL NOT NULL  AND RequestURL CONTAINS  "/dana-na/"
+rg_functionality="Web Proxy" AND RequestURL NOT NULL AND (RequestURL CONTAINS "meeting_testjs.cgi"  OR RequestURL CONTAINS "/dana-na/auth/recover.cgi")
+rg_functionality="Firewall" AND RequestURL NOT NULL AND (RequestURL CONTAINS "meeting_testjs.cgi"  OR RequestURL CONTAINS "/dana-na/auth/recover.cgi")
+rg_functionality="Web Server" AND  RequestURL NOT NULL AND (RequestURL CONTAINS "meeting_testjs.cgi"  OR RequestURL CONTAINS "/dana-na/auth/recover.cgi")
+rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl CONTAINS "dana/"  AND requesturl CONTAINS  "meeting"
+rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl CONTAINS "dana/"  AND requesturl CONTAINS  "fb/" AND requesturl CONTAINS  "smb"
+rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl CONTAINS "dana-cached/"  AND requesturl CONTAINS  "fb/" AND requesturl CONTAINS  "smb"
+rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl CONTAINS "dana-ws/"  AND requesturl CONTAINS  "namedusers"
+rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl CONTAINS "dana-ws/"  AND requesturl CONTAINS  "metric"
