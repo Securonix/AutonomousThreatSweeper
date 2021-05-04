@@ -1,0 +1,3 @@
+rg_functionality="Endpoint Management Systems" AND baseeventid=1 and destinationprocessname ENDS WITH rundll32.exe AND resourcecustomfield1 CONTAINS ShellExec_RunDLL resourcecustomfield1 CONTAINS ProgramData
+rg_functionality="Antivirus / Malware / EDR" AND baseeventid=1 and destinationprocessname ENDS WITH rundll32.exe AND resourcecustomfield1 CONTAINS ShellExec_RunDLL resourcecustomfield1 CONTAINS ProgramData
+rg_functionality="Cloud Antivirus / Malware / EDR" AND baseeventid=1 and destinationprocessname ENDS WITH rundll32.exe AND resourcecustomfield1 CONTAINS ShellExec_RunDLL resourcecustomfield1 CONTAINS ProgramData
