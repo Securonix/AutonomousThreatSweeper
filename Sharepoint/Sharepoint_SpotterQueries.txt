@@ -1,3 +1,0 @@
-index=activity AND rg_functionality="Next Generation Firewall" AND destinationhostname NOT NULL AND (destinationhostname CONTAINS "-sharepoint.com")
-index=activity AND rg_functionality="Firewall" AND destinationhostname NOT NULL AND (destinationhostname CONTAINS "-sharepoint.com")
-index=activity AND rg_functionality="Web Proxy" AND destinationhostname NOT NULL AND (destinationhostname CONTAINS "-sharepoint.com")
