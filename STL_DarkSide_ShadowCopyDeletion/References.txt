@@ -1,1 +1,1 @@
-Hunting queries for Operation Tunnelsnake(Moriya rootkit) by Securonix Threat Labs
+Hunting queries for DarkSide shadow copy deletion by Securonix Threat Labs
