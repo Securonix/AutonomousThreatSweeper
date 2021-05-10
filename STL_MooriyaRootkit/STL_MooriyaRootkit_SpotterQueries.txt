@@ -1,0 +1,2 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND baseeventid = "11" AND filename ENDS WITH "MoriyaStreamWatchmen.sys"
+index=activity AND rg_functionality="Microsoft Windows" AND baseeventid = 7045 AND additionaldetails20 CONTAINS "ZzNetSvc"
