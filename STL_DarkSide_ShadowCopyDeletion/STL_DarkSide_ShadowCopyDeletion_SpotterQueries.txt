@@ -1,0 +1,1 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND baseeventid = "1" AND destinationprocessname ENDS WITH "powershell.exe" AND resourcecustomfield1 CONTAINS "a7e08519-4a54-6099-4d02-000000000400"
