@@ -1,1 +1,0 @@
-Indicators such as the filehash b3ad5364cf04b6ab05616dd483aaf618 refers to powershell.exe have been excluded from the reports. Only presence of such indicators might not be indicative of any malicious activity related to the threat.
