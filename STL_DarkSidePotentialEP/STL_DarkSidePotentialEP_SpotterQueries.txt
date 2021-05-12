@@ -1,0 +1,1 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND baseeventid = "1" and (resourcecustomfield1 CONTAINS "DllHost.exe" and resourcecustomfield1 contains "/Processid:{3E5FC7F9-9A51-4367-9063-A120244FBEC7}" OR resourcecustomfield1 CONTAINS "/Processid:{D2E7041B-2927-42fb-8E9F-7CE93B6DC937}")
