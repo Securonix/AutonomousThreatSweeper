@@ -1,0 +1,1 @@
+https://www.anomali.com/blog/threat-actors-use-msbuild-to-deliver-rats-filelessly
