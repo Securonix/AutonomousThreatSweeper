@@ -1,1 +1,1 @@
-unting queries for JBS Incident by Securonix Threat Labs
+Hunting queries for JBS Incident by Securonix Threat Labs

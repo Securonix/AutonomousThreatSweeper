@@ -1,0 +1,2 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND baseeventid= 1 and oldfilepath not contains C:\ and oldfilepath != "?" and destinationprocessname = "rundll32.exe"
+index=activity AND rg_functionality="Endpoint Management Systems" AND (deviceaction = "ProcessRollup2" or deviceaction = "Procstart" or deviceaction = "Childproc" or deviceaction = "Process" or deviceaction = "Process Create" or deviceaction = "Trace Executed Process") and oldfilepath not contains C:\ and oldfilepath != "?" and destinationprocessname = "rundll32.exe"
