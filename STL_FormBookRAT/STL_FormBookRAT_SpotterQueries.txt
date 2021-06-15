@@ -1,0 +1,1 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND (deviceaction = "ProcessRollup2" or deviceaction = "Procstart" or deviceaction = "Childproc" or deviceaction = "Process" or deviceaction = "Process Create" or deviceaction = "Trace Executed Process" or baseeventid=1) AND destinationprocessname ENDS WITH "logagent.exe" AND  sourceprocessname ENDS WITH "vbc.exe"
