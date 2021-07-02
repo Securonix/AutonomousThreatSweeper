@@ -1,0 +1,1 @@
+Hunting queries for Print Nightmare (CVE-2021-1675) by Securonix Threat Labs
