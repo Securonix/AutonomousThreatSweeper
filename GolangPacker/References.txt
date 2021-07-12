@@ -1,0 +1,1 @@
+https://www.crowdstrike.com/blog/new-ransomware-variant-uses-golang-packer/
