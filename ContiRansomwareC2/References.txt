@@ -1,0 +1,2 @@
+1. https://github.com/pan-unit42/iocs/blob/master/Conti_IOCs.txt
+2. https://www.bleepingcomputer.com/news/security/angry-conti-ransomware-affiliate-leaks-gangs-attack-playbook/
