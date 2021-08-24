@@ -1,1 +1,0 @@
-Indicators/TTPs from Securonix Threat Research Honeypot
