@@ -1,1 +1,1 @@
-Hunting queries for Akido by Securonix Threat Labs
+Indicators/TTPs from Securonix Threat Research Honeypot
