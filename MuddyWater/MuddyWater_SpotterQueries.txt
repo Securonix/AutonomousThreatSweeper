@@ -1,0 +1,6 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND filehash NOT NULL AND filehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
+index=activity AND rg_functionality="Antivirus / Malware / EDR" AND filehash NOT NULL AND filehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
+index=activity AND rg_functionality="Cloud Antivirus / Malware / EDR" AND filehash NOT NULL AND filehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
+index=activity AND rg_functionality="Endpoint Management Systems" AND oldfilehash NOT NULL AND oldfilehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
+index=activity AND rg_functionality="Antivirus / Malware / EDR" AND oldfilehash NOT NULL AND oldfilehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
+index=activity AND rg_functionality="Cloud Antivirus / Malware / EDR" AND oldfilehash NOT NULL AND oldfilehash IN ("69e4637eae6d5175a6afcc7f97a4d378","4da8270132c117aaa4f29bfe38c2e835")
