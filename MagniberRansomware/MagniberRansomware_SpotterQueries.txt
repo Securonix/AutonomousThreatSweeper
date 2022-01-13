@@ -1,0 +1,7 @@
+index=activity AND rg_functionality="Endpoint Management Systems" AND filehash NOT NULL AND filehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Antivirus / Malware / EDR" AND filehash NOT NULL AND filehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Cloud Antivirus / Malware / EDR" AND filehash NOT NULL AND filehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Endpoint Management Systems" AND oldfilehash NOT NULL AND oldfilehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Antivirus / Malware / EDR" AND oldfilehash NOT NULL AND oldfilehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Cloud Antivirus / Malware / EDR" AND oldfilehash NOT NULL AND oldfilehash IN ("cf16310545bf91d3ded081f9220af7cc","12a12ea3b7d84d1bd0aad215d024665c")
+index=activity AND rg_functionality="Web Proxy" AND requesturl NOT NULL AND requesturl IN ("http://b5305c364336bqd.bytesoh.cam","http://hadhill.quest/376s53290a9n2j")
