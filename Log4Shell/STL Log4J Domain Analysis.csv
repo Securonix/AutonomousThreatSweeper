@@ -1,0 +1,16 @@
+﻿Domain,Summary
+bingsearchlib.com,Log4J exploit domain
+burpcollaborator.net,Log4j call back domain
+canarytokens.com,"Domain (canarytokens.com) is Malicious and further communicating with few malicious subdomains, malicious files which are linked to Sodinokibi ransomware"
+dnslog.cn,"Malicious domain linked to LOG4j, and communicating with Log4j files"
+interact.sh,"Malicious domain linked to LOG4j, and communicating with multiple malicious files"
+interactsh.com,"Malicious domain linked to LOG4j, and communicating with multiple malicious files"
+ds.Rce.ee,under review
+psc4fuel.com,"Malicious domain linked to LOG4j, and communicating with Log4j IP"
+eg0.ru,"Malicious domain linked to LOG4j, and communicating with Log4j IP"
+awsdns-2.org,Log4shell scans are using this domain to host second stage payloads.
+flofire.de,Malicious domain linked to LOG4j
+nijat.space,Malicious domain linked to LOG4j
+dataastatistics.com,Malicious domain linked to LOG4j
+pwn.af,Malicious domain linked to LOG4j
+log4j-test.xyz,One of the sources of Log4J exploit

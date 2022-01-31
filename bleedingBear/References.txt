@@ -1,0 +1,2 @@
+https://elastic.github.io/security-research/malware/2022/01/01.operation-bleeding-bear/article/
+https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/
