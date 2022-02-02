@@ -1,6 +1,6 @@
 # SysJoker Backdoor
 
-## Microsoft Windows
+### Microsoft Windows
 
 ##### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 
@@ -9,7 +9,7 @@ index=activity and rg_functionality = "Microsoft Windows'' and (filepath contain
 
 index=activity and rg_functionality = "Microsoft Windows" and filename CONTAINS "igfxCUIService.exe" | RARE filepath
 ```
-## Antivirus / Malware / EDR
+### Antivirus / Malware / EDR
 
 ##### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 
@@ -23,7 +23,7 @@ index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecust
 index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
 
-## Cloud Antivirus / Malware / EDR
+### Cloud Antivirus / Malware / EDR
 
 ##### The following query looks for rare files downloaded and executed in mentioned directories where the backdoor has been observed to operate
 
@@ -39,7 +39,7 @@ index=activity and rg_functionality = "Microsoft Windows" and filename CONTAINS 
 index=activity and rg_functionality = "Cloud Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
 
-## Endpoint Management Systems
+### Endpoint Management Systems
 
 ##### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 
@@ -57,7 +57,7 @@ index=activity and rg_functionality = “Endpoint management Systems” and devi
 
 # WhisperGate Malware
 
-## Endpoint Management Systems
+### Endpoint Management Systems
 
 ##### The following queries are split into two parts, one query looks for the stage1.exe executable specifically and the other query looks for rare files executed from the referenced paths.
 
@@ -72,7 +72,6 @@ rg_functionality = "Endpoint Management Systems" AND (filepath CONTAINS "C:\Perf
 ```text
 index=activity AND rg_functionality = "Endpoint Management Systems" AND deviceaction = "Dns query" AND destinationhostname ENDS WITH "cdn.discordapp.com" AND destinationprocessname NOT ENDS WITH "discord.exe" AND destinationprocessname NOT ENDS WITH "chrome.exe" AND destinationprocessname NOT ENDS WITH "firefox.exe" AND destinationprocessname NOT ENDS WITH "safari.exe" AND destinationprocessname NOT ENDS WITH "opera.exe" AND destinationprocessname NOT ENDS WITH "iexplore.exe" AND destinationprocessname NOT ENDS WITH "microsoftedge.exe" OR destinationprocessname NOT ENDS WITH "microsoftedgecp.exe" AND destinationprocessname NOT ENDS WITH "browser_broker.exe" AND destinationprocessname NOT ENDS WITH "msedge.exe" AND destinationprocessname NOT ENDS WITH "brave.exe" | RARE filename
 ```
-
 
 ##### The following query looks for rare files written in the temp directory via VB script leveraging i.e. leveraging the Wscript.exe process.
 
@@ -124,7 +123,7 @@ rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = power
 rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = cmd.exe AND (resourcecustomfield1 CONTAINS ""Del /f /q"" OR resourcecustomfield3 CONTAINS ""Del /f /q"") | RARE resourcecustomfield1"
 ```
 
-## Antivirus / Malware / EDR
+### Antivirus / Malware / EDR
 
 ##### These queries are split into two parts, one query looks for the stage1.exe executable specifically and the other looks for rare files executed from referenced directories. 
 
@@ -166,7 +165,7 @@ rg_functionality = ""Antivirus / Malware / EDR"" AND sourceprocessname = powersh
 rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = cmd.exe AND (resourcecustomfield1 CONTAINS ""Del /f /q"" OR resourcecustomfield3 CONTAINS ""Del /f /q"") | RARE resourcecustomfield1"
 ```
 
-## Cloud Antivirus / Malware / EDR
+### Cloud Antivirus / Malware / EDR
 
 ##### These queries are split into two parts, one query looks for the stage1.exe executable specifically and the other query looks for rare files executed from the below directories .
 ```text
@@ -204,20 +203,20 @@ rg_functionality = ""Cloud Antivirus / Malware / EDR"" AND sourceprocessname = c
 ```text
 index=activity AND rg_functionality = ""Cloud Antivirus / Malware / EDR"" AND deviceaction = ""Dns query"" AND destinationhostname ENDS WITH ""cdn.discordapp.com"" AND destinationprocessname NOT ENDS WITH ""discord.exe"" AND destinationprocessname NOT ENDS WITH ""chrome.exe"" AND destinationprocessname NOT ENDS WITH ""firefox.exe"" AND destinationprocessname NOT ENDS WITH ""safari.exe"" AND destinationprocessname NOT ENDS WITH ""opera.exe"" AND destinationprocessname NOT ENDS WITH ""iexplore.exe"" AND destinationprocessname NOT ENDS WITH ""microsoftedge.exe"" AND destinationprocessname NOT ENDS WITH ""microsoftedgecp.exe"" AND destinationprocessname NOT ENDS WITH ""browser_broker.exe"" AND destinationprocessname NOT ENDS WITH ""msedge.exe"" AND destinationprocessname NOT ENDS WITH ""brave.exe"" | RARE filename
 ```
-## Microsoft Windows
+### Microsoft Windows
 ##### These queries are split into two parts, one query looks for the stage1.exe executable specifically and the other query looks for rare files executed from the below directories.
 ```text
 rg_functionality = ""Microsoft Windows"" AND (sourceprocessname contains ""stage1.exe"" or destinationprocessname contains ""stage1.exe"" OR filename CONTAINS ""stage1.exe"" OR filepath CONTAINS ""stage1.exe"" OR oldfilename CONTAINS ""stage1.exe"" OR oldfilepath CONTAINS ""stage1.exe"")
 
 rg_functionality = ""Microsoft Windows"" AND (filepath CONTAINS ""C:\PerfLogs"" OR filepath CONTAINS ""C:\ProgramData"" OR filepath CONTAINS ""C:\"" OR filepath CONTAINS ""C:\temp"" OR oldfilepath CONTAINS ""C:\PerfLogs"" OR oldfilepath CONTAINS ""C:\ProgramData"" OR oldfilepath CONTAINS ""C:\"" OR oldfilepath CONTAINS ""C:\temp"") | RARE filename"
 ```
-## Web Proxy
+### Web Proxy
 ##### This query detects rare downloads from the discord cdn post execution. Note: Usually this may lead to false positives so this should be followed by unusual downloads from a discord cdn"
 ```text
 rg_functionality = ""Web Proxy"" AND (destinationhostname CONTAINS “cdn.discordapp.com/attachments” OR requesturl CONTAINS “cdn.discordapp.com/attachments”)
 ```
 
-## Next Generation Firewall
+### Next Generation Firewall
 ##### This query detects rare downloads from the discord cdn post execution. Note: This query has potential to generate noise and should be used in conjunction with other activities related to this attack."
 ```text
 rg_functionality = ""Next Generation Firewall"" AND (destinationhostname CONTAINS “cdn.discordapp.com/attachments” OR requesturl CONTAINS “cdn.discordapp.com/attachments”)
