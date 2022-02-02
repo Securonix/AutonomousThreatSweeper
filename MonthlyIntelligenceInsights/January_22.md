@@ -26,9 +26,9 @@ index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecust
 ```
 
 ## Cloud Antivirus / Malware / EDR
-```text
-The following query looks for rare files downloaded and executed in mentioned directories where the backdoor has been observed to operate
-```
+
+#### The following query looks for rare files downloaded and executed in mentioned directories where the backdoor has been observed to operate
+
 
 ```text
 index=activity and rg_functionality = "Microsoft Windows" and (filepath contains "C:\ProgramData\SystemData" or filepath contains "C:\ProgramData\RecoverySystem") | RARE filename
@@ -36,13 +36,12 @@ index=activity and rg_functionality = "Microsoft Windows" and (filepath contains
 index=activity and rg_functionality = "Microsoft Windows" and filename CONTAINS "igfxCUIService.exe" | RARE filepath
 ```
 
-```text
-The following query detects the registry modifications for persistence.
-```
+#### The following query detects the registry modifications for persistence.
 
 ```text
 index=activity and rg_functionality = "Cloud Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
+
 ## Endpoint Management Systems
 ```text
 The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
