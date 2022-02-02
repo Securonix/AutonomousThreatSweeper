@@ -10,17 +10,15 @@ index=activity and rg_functionality = "Microsoft Windows'' and (filepath contain
 index=activity and rg_functionality = "Microsoft Windows" and filename CONTAINS "igfxCUIService.exe" | RARE filepath
 ```
 ## Antivirus / Malware / EDR
-```text
-The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
-```
+
+#### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
+
 
 ```text
 index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
 
-```text
-The following query detects the registry modification in the below registry path post execution.
-```
+#### The following query detects the registry modification in the below registry path post execution.
 
 ```text
 index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
