@@ -1,16 +1,15 @@
-## SysJoker Backdoor
+# SysJoker Backdoor
 
-__Microsoft Windows__:
+## Microsoft Windows
 
-### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
+#### The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 
 ```text
 index=activity and rg_functionality = "Microsoft Windows'' and (filepath contains "C:\ProgramData\SystemData" or filepath contains "C:\ProgramData\RecoverySystem") | RARE filename
 
 index=activity and rg_functionality = "Microsoft Windows" and filename CONTAINS "igfxCUIService.exe" | RARE filepath
-
 ```
-__Antivirus / Malware / EDR__:
+## Antivirus / Malware / EDR
 ```text
 The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 ```
@@ -28,7 +27,7 @@ index=activity and rg_functionality = "Antivirus / Malware / EDR" and devicecust
 
 ```
 
-__Cloud Antivirus / Malware / EDR__:
+## Cloud Antivirus / Malware / EDR
 ```text
 The following query looks for rare files downloaded and executed in mentioned directories where the backdoor has been observed to operate
 ```
@@ -46,7 +45,7 @@ The following query detects the registry modifications for persistence.
 ```text
 index=activity and rg_functionality = "Cloud Antivirus / Malware / EDR" and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
-__Endpoint Management Systems__:
+## Endpoint Management Systems
 ```text
 The following query looks for rare files downloaded and executed in these directories specifically “igfxCUIService.exe”
 ```
@@ -65,9 +64,10 @@ The following query detects the registry modification to maintain persistence.
 index=activity and rg_functionality = “Endpoint management Systems” and devicecustomstring2 CONTAINS ““HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run” | RARE customstring2
 ```
 
-## WhisperGate Malware
+# WhisperGate Malware
 
-__Endpoint Management Systems__:
+## Endpoint Management Systems
+
 ```text
 These queries are split into two parts, one query looks for the stage1.exe executable specifically and the other query looks for rare files executed from the referenced paths.
 ```
@@ -136,12 +136,12 @@ rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = cmd.e
 
 
 
-__Antivirus / Malware / EDR__:
+## Antivirus / Malware / EDR
 
-__Cloud Antivirus / Malware / EDR__:
+## Cloud Antivirus / Malware / EDR
 
-__Microsoft Windows__:
+## Microsoft Windows
 
-__Web Proxy__:
+## Web Proxy
 
-__Next Generation Firewall__:
+## Next Generation Firewall
