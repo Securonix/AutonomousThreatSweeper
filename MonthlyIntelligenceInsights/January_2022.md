@@ -117,9 +117,9 @@ rg_functionality = ""Endpoint Management Systems"" AND (filename CONTAINS "".3DM
 ```text
 rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = powershell.exe AND (resourcecustomfield1 CONTAINS ""rmdir 'C:\ProgramData\Microsoft\Windows Defender” OR resourcecustomfield3 CONTAINS ""rmdir 'C:\ProgramData\Microsoft\Windows Defender'"")"
 ```
-```text
-The following query detects the activity of removing traces of activity performed using cmd.exe and specific command line parameters.
-```
+
+#### The following query detects the activity of removing traces of activity performed using cmd.exe and specific command line parameters.
+
 ```text
 rg_functionality = ""Endpoint Management Systems"" AND sourceprocessname = cmd.exe AND (resourcecustomfield1 CONTAINS ""Del /f /q"" OR resourcecustomfield3 CONTAINS ""Del /f /q"") | RARE resourcecustomfield1"
 ```
