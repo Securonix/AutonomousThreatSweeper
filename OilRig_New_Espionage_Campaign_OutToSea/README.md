@@ -1,0 +1,27 @@
+
+## IOCs
+
+__hash__:
+
+```text
+5a5241ee5dfb1d5b668e49ce5de368946fb8a68f
+ae5a3b0947032485ae34809df39f404f74d58512
+e517c8bb1f8c438583ba88e4cbc1fe938075235f
+28f514b73322870c970d3699525b97e4b48074f6
+9467a7dc9d19dd77ba1d1e87af99a23152b1ca8e
+6e6c2d2bc4fc78a023bb04a10ff04a46db180463
+ac37a91625ad9bdf0e796da9640b7a8e721673fc
+c6bcb5820585c88eed2c92f8defdaf1d4a84e2d0
+67027bcc0dbbc7713a7ef46984fd508521ec8878
+28bf86cd8f9766bd5c81400f1735347bad361168
+```
+__domain__:
+
+```text
+sysadminnews.info
+windowsupdatecdn.com
+dnscdn.org
+updatecdn.net
+zonestatistic.com
+login.microsoftonline.com/common/oauth2/v2.0/token
+```
