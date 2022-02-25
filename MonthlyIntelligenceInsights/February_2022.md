@@ -1,3 +1,113 @@
+# MuddyWater 
+
+### Endpoint Management Systems 
+
+#### Monitor for the following rare processes being executed:gram_app.exe, index.ex
+
+```text
+rg_functionality = "Endpoint Management Systems" and (sourceprocessname ="gram_app.exe" or destinationprocessname ="gram_app.exe" or sourceprocessname ="index.exe" or destinationprocessname ="index.exe")
+```
+#### Monitor for the following rare files / DLLs being created:Cooperation terms.xls, FML.dll, MicrosoftWindowsOutlookDataPlus.txt 
+
+```text
+rg_functionality = "Endpoint Management Systems" and (filename = "Cooperation terms.xls" or filename ="FML.dll" or filename = "MicrosoftWindowsOutlookDataPlus.txt")
+```
+#### Monitor for persistence with any modifications to the  current user startup folder: file path contains \Windows\Start Menu\Programs\Startup 
+
+```text
+rg_functionality = "Endpoint Management Systems" and filepath CONTAINS "\Windows\Start Menu\Programs\Startup" and filename ends with ".wsf"
+```
+#### Monitor for rare registry modifications : HKCU\Software\Microsoft\Windows\CurrentVersion\Run\OutlookMicrosoft
+
+```text
+rg_functionality = "Endpoint Management Systems" and devicecustomstring2 CONTAINS "HKCU\Software\Microsoft\Windows\CurrentVersion\Run\OutlookMicrosift"
+```
+
+# Hermetic Wiper 
+
+### Endpoint Management Systems
+
+#### Monitor for Registry key changes to disable crash dumps (CrashDumpEnabled = 0) from the path "HKLM\SYSTEM\CurrentControlSet\Control\CrashControl"
+
+```text
+"rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND resourcecustomfield1 CONTAINS ""HKLM\SYSTEM\CurrentControlSet\Control\CrashControl"" AND  resourcecustomfield1 CONTAINS  ""CrashDumpEnabled"" AND  resourcecustomfield1 CONTAINS ""0""
+```
+
+#### Monitor for Rare registry key changes to diable ShowCompColor, ShowInfoTip  from the path "\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced"
+
+```text
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND resourcecustomfield1 CONTAINS ""Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced"" AND (resourcecustomfield1 CONTAINS ShowCompColor OR resourcecustomfield1 CONTAINS ShowInfoTip) AND resourcecustomfield1 CONTAINS ""0""
+```
+
+#### Monitor for rare files created and/or executed from known windows system folders
+
+```text
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND resourcecustomfield1 CONTAINS ""C:\Windows\system32\Drivers"" | Rare resourcecustomfield1
+```
+
+#### Monitor for rare commands executed to identify the operating system version
+
+```text 
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND (resourcecustomfield1 CONTAINS ""VerSetConditionMask"" OR resourcecustomfield1 CONTAINS ""VerifyVersionInfoW"")
+```
+
+#### Monitor for Rare processes spawned from command prompt
+
+```text
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND sourceprocessname contains ""cmd.exe"" and resourcecustomfield1 contains expand
+
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") and resourcecustomfield1 contains EPMNTDRV
+```
+#### Monitor for rare sys files created on system folders (Eg: %WINDIR%\system32\driver\<random_2chars>dr.sys)
+
+```text
+rg_functionality = ""Endpoint Management Systems"" AND (deviceaction = ""Process Create"" OR deviceaction = ""Process Create (rule: ProcessCreate)"" OR deviceaction = ""ProcessRollup2"" OR deviceaction = ""SyntheticProcessRollUp2"" OR deviceaction = ""WmiCreateProcess"" OR deviceaction = ""Trace Executed Process"" OR deviceaction = ""Process"" OR deviceaction = ""Childproc"" OR deviceaction = ""Procstart"" OR deviceaction = ""Process Activity: Launched"") AND resourcecustomfield1 contains ""C:\Windows\system32\"" and resourcecustomfield1 contains ""dr.sys"""
+```
+
+### Microsoft Windows
+
+#### Monitor for Rare privilege escalation attempts by acccounts within the ADFS
+
+```text
+rg_functionality=""microsoft windows"" and (baseeventid=4672 OR baseeventid=4673 OR baseeventid=4674) and sourceuserprivileges IN(SeShutDownPrivilege,SeBackupPrivilege,SeLoadDriverPrivilege) | Rare accountname
+```
+#### Monitor for Rare processes spawned from command prompt
+
+```text 
+rg_functionality=""microsoft windows"" and baseeventid=4688 and sourceprocessname=cmd.exe and destinationprocessname =expand.exe
+rg_functionality = windows and baseeventid=4688 and baseeventid=4663 and sourceprocessname contains EPMNTDRV or destinationprocessname contains EPMNTDRV
+```
+
+# Cyclops Blink 
+
+### Unix / Linux / AIX
+
+#### Monitor rare command line parameters for the process kworker
+
+```text
+rg_functionality = "Unix / Linux / AIX" AND (sourceprocessname CONTAINS "kworker" OR deviceprocessname CONTAINS "kworker" ) | RARE devicecustomstring1
+
+rg_functionality = "Unix / Linux / AIX" AND (sourceprocessname CONTAINS "kworker" OR deviceprocessname CONTAINS "kworker") AND  ((devicecustomstring1 CONTAINS "execl" AND devicecustomstring1 CONTAINS "/proc/self/exe") OR (customstring2 CONTAINS "execl" AND customstring2 CONTAINS "/proc/self/exe"))
+```
+
+### Next Generation Firewall & Firewall
+
+#### Monitor for C2 communication on HTTP & HTTPS protocols on non-standard ports
+
+```text
+rg_functionality = "Next Generation firewall" AND (applicationprotocol = HTTP OR applicationprotocol = HTTPS) AND destinationport != 443 AND destinationport != 80
+
+rg_functionality = "Firewall" AND (applicationprotocol = HTTP OR applicationprotocol = HTTPS) AND destinationport != 443 AND destinationport != 80
+```
+#### Monitor for exfiltration to C2 server over covert channels such as SSH, TELNET, RDP, DNS.
+
+```text
+rg_functionality = "Next Generation Firewall" AND destinationport IN("22","23","3389","53") AND destinationaddress != 10.0.0.0/8 AND destinationaddress != 172.16.0.0/12 AND destinationaddress != 192.168.0.0/16 | STATS SUM(bytesout)
+
+rg_functionality = "Firewall" AND destinationport IN("22","23","3389","53") AND destinationaddress != 10.0.0.0/8 AND destinationaddress != 172.16.0.0/12 AND destinationaddress != 192.168.0.0/16 | STATS SUM(bytesout)
+```
+
+
 # BlackByte Ransomware
 
 ### Endpoint Management Systems 
