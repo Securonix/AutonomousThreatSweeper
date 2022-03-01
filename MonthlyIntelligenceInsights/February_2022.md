@@ -1,3 +1,22 @@
+
+| Attacker Group | Functionality | Policy Name | Signature ID |
+|--------------- | ------------- | ----------- | ------------ |
+| Russian Ops | Web Server | Possible CVE-2019-11510 Exploitation Attempt Analytic | WEB-ALL-815-RU |
+| Russian Ops | Web Server | Possible CVE-2021–26855 Exploitation Attempt Suspicious Username Analytic | WEB-ALL-813-RU |
+| (Gamaredon, Primitive Bear, ACTINIUM, Shuckworm, Pterodo) | Endpoint Management Systems | Potential Pterodo Backdoor CommandLine Analytic | EDR-ALL-336-RU |
+| (Gamaredon, Primitive Bear, ACTINIUM, Shuckworm) | Endpoint Management Systems | Suspicious Scheduled Task Process Creation Analytic | EDR-ALL-335-RU |
+| (Gamaredon, Primitive Bear, ACTINIUM, Shuckworm) | Endpoint Management Systems | Potential VNC Client CommandLine Analytic | EDR-ALL-334-RU |
+| HermeticWiper | Endpoint Management Systems | Potential Malicious Activity CrashDump Disabled Registry Analytic | EDR-ALL-333-RU |
+| BlackByte | Endpoint Management Systems | Potential Print Bombing Attempt CommandLine Analytic | EDR-ALL-907-RU |
+| BlackByte | Endpoint Management Systems | Possible ProxyShell Exploitation Attempt File Creation Analytic | EDR-ALL-909-RU |
+| BlackByte | Endpoint Management Systems | Disabled UAC Remote Restrictions CommandLine Analytic | EDR-ALL-910-RU |
+| BlackByte | Endpoint Management Systems | Installation Of Active Directory RSAT Tools Process Creation Analytic | EDR-ALL-911-RU |
+| BlackByte | Endpoint Management Systems | Potential Malicious Driver Mount Process Creation Analytic | EDR-ALL-912-RU |
+| BlackByte | Endpoint Management Systems | Potential Malicious Registry Modifications CommandLine Analytic | EDR-ALL-913-RU |
+| BlackByte | Endpoint Management Systems | Potential Malicious Firewall Rules Modification CommandLine Analytic | EDR-ALL-914-RU |
+| BlackByte | Endpoint Management Systems | Potential Critical Windows Services Modification Attempt CommandLine Analytic | EDR-ALL-915-RU |
+| BlackByte | Endpoint Management Systems | Potential Malicious Mapped Drives Modifications CommandLine Analytic | EDR-ALL-916-RU |
+
 # MuddyWater 
 
 ### Endpoint Management Systems 
