@@ -122,6 +122,23 @@ rg_functionality=""microsoft windows"" and baseeventid=4688 and sourceprocessnam
 rg_functionality = windows and baseeventid=4688 and baseeventid=4663 and sourceprocessname contains EPMNTDRV or destinationprocessname contains EPMNTDRV
 ```
 
+
+# HermeticWizard Worm
+
+### Endpoint Management Systems
+
+#### This query detects the indicators for the presence of possible Hermetic Wizard while the worm is deployed in the system and performs recon within the network.
+
+```text
+rg_functionality = "Endpoint Management Systems" AND (deviceaction = "Process Create" OR deviceaction = "Process Create (rule: ProcessCreate)" OR deviceaction = "ProcessRollup2" OR deviceaction = "SyntheticProcessRollUp2" OR deviceaction = "WmiCreateProcess" OR deviceaction = "Trace Executed Process" OR deviceaction = "Process" OR deviceaction = "Childproc" OR deviceaction = "Procstart" OR deviceaction = "Process Activity: Launched") AND (resourcecustomfield1 CONTAINS " DNSGetCacheDataTable " OR resourcecustomfield1 CONTAINS "GetIpNetTable" OR resourcecustomfield1 CONTAINS "WNetOpenEnumW"  OR resourcecustomfield1 CONTAINS "NetServerEnum" OR resourcecustomfield1 CONTAINS "GetTcpTable" OR resourcecustomfield1 CONTAINS "GetAdaptersAddresses" OR resourcecustomfield1 CONTAINS "OpenRemoteServiceManager" OR resourcecustomfield1 CONTAINS "Wizard.dll") | Rare resourcecustomfield1
+```
+#### This query detects the indicators of Hermetic Wiper spread via WMI or SMB.
+
+```text
+rg_functionality = "Endpoint Management Systems" AND (deviceaction = "Process Create" OR deviceaction = "Process Create (rule: ProcessCreate)" OR deviceaction = "ProcessRollup2" OR deviceaction = "SyntheticProcessRollUp2" OR deviceaction = "WmiCreateProcess" OR deviceaction = "Trace Executed Process" OR deviceaction = "Process" OR deviceaction = "Childproc" OR deviceaction = "Procstart" OR deviceaction = "Process Activity: Launched") AND (resourcecustomfield1 CONTAINS "WNetAddConnection2W" OR resourcecustomfield1 CONTAINS "CopyFileW" OR resourcecustomfield1 CONTAINS "CoCreateInstance" OR resourcecustomfield1 CONTAINS "CopyFileW" OR resourcecustomfield1 CONTAINS "romance.dll" OR resourcecustomfield1 CONTAINS "samr" OR resourcecustomfield1 CONTAINS "browser" OR resourcecustomfield1 CONTAINS "netlogon" OR resourcecustomfield1 CONTAINS "lsarpc" OR resourcecustomfield1 CONTAINS "ntsvcs" OR resourcecustomfield1 CONTAINS "svcctl") | Rare resourcecustomfield1
+```
+
+
 # Cyclops Blink 
 
 ### Unix / Linux / AIX
