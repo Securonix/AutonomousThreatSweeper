@@ -1,3 +1,28 @@
+# Pro-Ukraine Conti Release
+
+### Next Generation Firewall & Firewwall
+```text
+index=activity AND rg_functionality="Next Generation Firewall" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+index=activity AND rg_functionality="Firewall" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+```
+### Web Proxy
+```text
+index=activity AND rg_functionality="Web Proxy" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+```
+### Web Application Firewall
+```text
+index=activity AND rg_functionality="Web Application Firewall" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+```
+### DNS / DHCP
+```text
+index=activity AND rg_functionality="DNS / DHCP" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+```
+### IDS / IPS / UTM / Threat Detection
+```text 
+index=activity AND rg_functionality="IDS / IPS / UTM / Threat Detection" AND ipaddress NOT NULL AND ipaddress IN ("138.124.180.94", "45.14.226.47", "193.203.203.101")
+```
+
+
 
 | Attacker Group | Functionality | Policy Name | Signature ID |
 |--------------- | ------------- | ----------- | ------------ |
