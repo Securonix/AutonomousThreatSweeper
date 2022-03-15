@@ -1,6 +1,6 @@
 ## IOCs
 
-__hash__:
+__SHA256__
 
 ```text
 cc36cc84d575e953359d82e8716c37ba2cbf20c6d63727ca9e83b53493509723
@@ -32,7 +32,7 @@ b2c92609557eaabe108689a17996befeabb48da70053ae6335a1fcd0c1189249
 12e907fae4427a7b0d68adfb33a5e045971bd755f8b7a48299a27736c24c9929
 ```
 
-__IP Address__:
+__IP Address__
 ```text
 198.12.116.254
 ```
