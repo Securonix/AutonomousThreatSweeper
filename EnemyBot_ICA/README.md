@@ -36,3 +36,7 @@ __IP Address__
 ```text
 198.12.116.254
 ```
+## Reference 
+```text
+https://www.securonix.com/blog/detecting-the-enemybot-botnet-advisory/
+```
