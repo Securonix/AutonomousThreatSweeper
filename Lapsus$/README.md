@@ -1,3 +1,4 @@
+Note: These related Indicators of Compromise (IoCs) have not yet been validated by Securonix Threat Labs, and have been provided as low confidence until otherwise stated.
 
 ## IOCs
 
