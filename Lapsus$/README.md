@@ -1,7 +1,7 @@
 
 ## IOCs
 
-__ipaddress__:
+__IP Address__:
 
 ```text
 103.195.100.11
@@ -27,7 +27,7 @@ http://1.117.117.202:3306/wp06/wp-includes/po.php
 http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com/
 ```
 
-__hash__:
+__Hash__:
 
 ```text
 07b7da86d2f548d18462f8d6d869052a
