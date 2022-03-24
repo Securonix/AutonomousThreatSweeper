@@ -28,12 +28,12 @@ teenbeanjs.com
 __url__:
 
 ```text
-https.//colasprint[.]com/about/about.asp (legitimate but compromised website)
-https.//varietyjob[.]com/sitemap/sitemap.asp
-www.options-it[.]com
-www.tradingtechnologies[.]com
-https.//financialtimes365[.]com/user/finance.asp
-https.//gatexpiring[.]com/gate/index.asp
-https.//humingbot[.]io/cdn/js.asp
-https.//teenbeanjs[.]com/cloud/javascript.asp
+https://colasprint.com/about/about.asp
+https://varietyjob.com/sitemap/sitemap.asp
+www.options-it.com
+www.tradingtechnologies.com
+https://financialtimes365.com/user/finance.asp
+https://gatexpiring.com/gate/index.asp
+https://humingbot.io/cdn/js.asp
+https://teenbeanjs.com/cloud/javascript.asp
 ```
