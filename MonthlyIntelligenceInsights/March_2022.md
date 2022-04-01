@@ -220,6 +220,47 @@ index=activity AND rg_functionality="Cloud Authentication / SSO / Single Sign-On
 index=activity AND rg_functionality="Cloud Authentication / SSO / Single Sign-On" AND rg_vendor = "Okta" AND evicecustomstring4 = "user.account.report_suspicious_activity_by_enduser"
 ```
 
+# GhostWriter New Espionage Campaign
+### Antivirus / Malware / EDR
+#### Detect obfuscated vbscript name “ignit.vbs” from the file path “C:\Users\Public”
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND (filename CONTAINS "ignit.vbs" OR oldfilename CONTAINS "ignit.vbs")
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND (filename CONTAINS "ignit.vbs" OR oldfilename CONTAINS "ignit.vbs")
+rg_functionality = "Endpoint Management Systems" AND (filename CONTAINS "ignit.vbs" OR oldfilename CONTAINS "ignit.vbs")
+rg_functionality = "Antivirus / Malware / EDR" AND ((resourcecustomfield1 CONTAINS "wscript.exe" AND resourcecustomfield1 CONTAINS "vbs" AND resourcecustomfield1 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield2 CONTAINS "wscript.exe" AND resourcecustomfield2 CONTAINS "vbs" AND resourcecustomfield2 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield3 CONTAINS "wscript.exe" AND resourcecustomfield3 CONTAINS "vbs" AND resourcecustomfield3 CONTAINS "C:UsersPublicFavoritesdesktop.ini"))
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND ((resourcecustomfield1 CONTAINS "wscript.exe" AND resourcecustomfield1 CONTAINS "vbs" AND resourcecustomfield1 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield2 CONTAINS "wscript.exe" AND resourcecustomfield2 CONTAINS "vbs" AND resourcecustomfield2 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield3 CONTAINS "wscript.exe" AND resourcecustomfield3 CONTAINS "vbs" AND resourcecustomfield3 CONTAINS "C:UsersPublicFavoritesdesktop.ini"))
+rg_functionality = "Endpoint Management Systems" AND ((resourcecustomfield1 CONTAINS "wscript.exe" AND resourcecustomfield1 CONTAINS "vbs" AND resourcecustomfield1 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield2 CONTAINS "wscript.exe" AND resourcecustomfield2 CONTAINS "vbs" AND resourcecustomfield2 CONTAINS "C:UsersPublicFavoritesdesktop.ini") OR (resourcecustomfield3 CONTAINS "wscript.exe" AND resourcecustomfield3 CONTAINS "vbs" AND resourcecustomfield3 CONTAINS "C:UsersPublicFavoritesdesktop.ini"))
+rg_functionality = "Antivirus / Malware / EDR" AND ((resourcecustomfield1 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield1 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield2 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield2 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield3 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield3 CONTAINS "Users\Public\Libraries\core.dll"))
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND ((resourcecustomfield1 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield1 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield2 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield2 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield3 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield3 CONTAINS "Users\Public\Libraries\core.dll"))
+rg_functionality = "Endpoint Management Systems" AND ((resourcecustomfield1 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield1 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield2 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield2 CONTAINS "Users\Public\Libraries\core.dll") OR (resourcecustomfield3 CONTAINS "C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe  /U" AND resourcecustomfield3 CONTAINS "Users\Public\Libraries\core.dll"))
+```
+
+# Iranian Hackers Targeting Turkey and the Arabian Peninsula
+### Antivirus / Malware / EDR
+#### These queries look for the command line parameters used to call to the WSF-based RAT.
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe %LocalAppData%\Outlook.wsf humpback_whale"
+rg_functionality = "Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe" | RARE resourcecustomfield1
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe %LocalAppData%\Outlook.wsf humpback_whale"
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe" | RARE resourcecustomfield1
+rg_functionality = "Endpoint Management Systems" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe %LocalAppData%\Outlook.wsf humpback_whale"
+rg_functionality = "Endpoint Management Systems" AND resourcecustomfield1 CONTAINS "cmd.exe /c cscript.exe" | RARE resourcecustomfield1
+```
+#### These queries look for the command line parameters which are used to receive the command from C2 server.
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "%TEMP%" AND resourcecustomfield1 CONTAINS "cmd.exe /c" | RARE resourcecustomfield1
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "%TEMP%" AND resourcecustomfield1 CONTAINS "cmd.exe /c" | RARE resourcecustomfield1
+rg_functionality = "Endpoint Management Systems" AND resourcecustomfield1 CONTAINS "%TEMP%" AND resourcecustomfield1 CONTAINS "cmd.exe /c" | RARE resourcecustomfield1
+```
+#### These queries look for suspicious scheduled tasks used to deploy malicious VBS based downloaders
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "SchTasks /Create /SC ONCE /ST" AND resourcecustomfield1 CONTAINS "/TR powershell -exec bypass -w 1 Invoke-WebRequest -Uri" AND resourcecustomfield1 CONTAINS "-OutFile" | RARE resourcecustomfield1
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND resourcecustomfield1 CONTAINS "SchTasks /Create /SC ONCE /ST" AND resourcecustomfield1 CONTAINS "/TR powershell -exec bypass -w 1 Invoke-WebRequest -Uri" AND resourcecustomfield1 CONTAINS "-OutFile" | RARE resourcecustomfield1
+rg_functionality = "Endpoint Management Systems" AND resourcecustomfield1 CONTAINS "SchTasks /Create /SC ONCE /ST" AND resourcecustomfield1 CONTAINS "/TR powershell -exec bypass -w 1 Invoke-WebRequest -Uri" AND resourcecustomfield1 CONTAINS "-OutFile" | RARE resourcecustomfield1
+```
+
+
+
 
 
 
