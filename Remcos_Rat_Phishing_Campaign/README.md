@@ -1,0 +1,71 @@
+
+## IOCs
+
+__url__:
+
+```text
+http://kingspalmhomes.com/wprl/Protected Client.vbs
+http://kingspalmhomes.com/admin/Protected Client.vbs
+http://kingspalmhomes.com/wprl/Protected.vbs
+http://kingspalmhomes.com/admin/Protected Client.vbs
+http://kingspalmhomes.com/product/Protected.vbs
+http://fisintegrateds.com/zp-admin/Protected Client.vbs
+http://fisintegrateds.com/zp-admin/Protected Client.vbs
+http://gotovacoil.com/created/Protected Client.vbs
+http://gotovacoil.com/newfolder/Protected Client.vbs
+http://dreamwatchevent.com/wsalptza/Client.vbs
+http://dreamwatchevent.com/zp-user/Protected Client.vbs
+http://209.127.19.101/win.vbs
+http://209.127.19.101/pit.txt
+http://209.127.19.101/kif.jpg
+```
+__ipaddress__:
+
+```text
+209.127.19.101
+```
+__hash__:
+
+```text
+c221b6eb8437d1f43ebffae9e51c7d330016290d048cfff2f402a7508b1e16e3
+8740cdcef9e825fd5105b021e0616a1d6a41f761c92f29127cd000c8500f70e6
+6d9d1de4f4ea0e4aeb553458f4cea2af1a2554fe84c952b367ed5eb753990fc7
+342bad5211bf3c8af50e263334bb90b580d71220e6b16597ba7bdd6f404e4215
+b5833f95871ced64f48649b55e075e85c1c595f4af8522082c8e3ef72917ae80
+a2cffc70c2b63baa3ada0b916b778996204bd3b7a91eab66757b4343888eec3f
+1a5b5299afb0c657e2141aaf46600c6ca91ca80840d65fb3b5afb53a99069e53
+6ad5d2aae0cb58f943f39d8b43492fd6007cd8caeeaaea03013194572756b124
+85c4808b3ed64480ae0d9f5c6fdaade6c7298f89cb4b799f0d5510b674d0a367
+dc88c4ddc7f428a266cf619d4d5367fa10a86c2c7fc18a359eb8d9d264437111
+26bd031cb4a5333bbd77698f5aaf737cb108b4b9d30670d92218a8c31ec0abc7
+5115b590c285b437f5d432b1ca0ad8ee8ba89afedd7a5228d8d79e20e6ec84d8
+77268e599a7bee74da06206f33c4725e262627d88123c7920e6aab9d9473a1c0
+e0306366dd9c04bc92421d855a116d145e4b9afe4852bc77a02089d363d031a4
+1e7dba5f19588eeceffb45e96f4673ce181d64392805c5a78e83ae8c15d42d61
+a954043909b90d12ab1659e2d28adb236b4ac521084282448757f7b1fd8d8b05
+6f2e30793f43ea5b71f5609fa508acf595393d1a3e2ac2a9e8205228e0c50fe8
+128971c9ae22f36db1074ff2e93c2adb07c21eb3e5c139d501e06ef29bf28b97
+3f54c5f1cf53bb9a87aabdd0847c3506aebda16e5c384ab2d939264541e214e9
+70a1064fee27885c8d3caa5c18e0c08609c50ecdaa8e0ee2b9ce5c97a6df21f1
+e646ad0c447c477004947aa49154c9d1cf1013769332f76aa46bc230ae286d1c
+c04840608386221e34ec81c5e9875e6e77cbdbf3acd63e76e338a1ad5ccf8da5
+1cb0c04eefe74736dc16b418e01fa7d61753992bc4898fe3600f61d648e64e1c
+da546ce81e022979c8dc7942667e57aa605b11cae9eb20d917df63cad75d4ec3
+f3ef4e8e91f7558a6e86f4001e0fc78defeaafe0298263a8f3bd62a451e45c5e
+79AD11D52EA3D0BD956CAD871396C8DA2C9A76FFFC02E694339B7FE8B6CE18EA
+401D142905E2253E7E38CC7E275A09A4A0F45AE73F15748EA69C1F6CB0591A81
+CFD29C1AC568E0A21B5F2C05B96BB5BBF2848E89BD6DBDDF4C69DAB3B1CD8A32
+79AD11D52EA3D0BD956CAD871396C8DA2C9A76FFFC02E694339B7FE8B6CE18EA
+CFD29C1AC568E0A21B5F2C05B96BB5BBF2848E89BD6DBDDF4C69DAB3B1CD8A32
+```
+__domain__:
+
+```text
+fisintegrateds.com
+kingspalmhomes.com
+gotovacoil.com
+dreamwatchevent.com
+shiestynerd.dvrlists.com
+breakingsecurity.dvrlists.com
+freshdirect.dvrlists.com
+```
