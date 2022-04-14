@@ -1,0 +1,2 @@
+https://blog.talosintelligence.com/2022/04/haskers-gang-zingostealer.html
+https://s3.amazonaws.com/talos-intelligence-site/production/document_files/files/000/095/760/original/zingostealer-blog-iocs.txt?1649940925
