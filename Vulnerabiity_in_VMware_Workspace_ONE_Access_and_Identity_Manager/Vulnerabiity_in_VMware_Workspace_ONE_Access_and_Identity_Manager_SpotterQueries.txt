@@ -1,0 +1,4 @@
+index=activity AND rg_functionality="Next Generation Firewall" AND requesturl CONTAINS "/catalog-portal/ui/oauth/verify" AND requesturl CONTAINS "deviceUdid" AND requesturl CONTAINS "error="
+index=activity AND rg_functionality="Web Application Firewall" AND requesturl CONTAINS "/catalog-portal/ui/oauth/verify" AND requesturl CONTAINS "deviceUdid" AND requesturl CONTAINS "error="
+index=activity AND rg_functionality="Web Server" AND requesturl CONTAINS "/catalog-portal/ui/oauth/verify" AND requesturl CONTAINS "deviceUdid" AND requesturl CONTAINS "error="
+index=activity AND rg_functionality="Web Proxy" AND requesturl CONTAINS "/catalog-portal/ui/oauth/verify" AND requesturl CONTAINS "deviceUdid" AND requesturl CONTAINS "error="
