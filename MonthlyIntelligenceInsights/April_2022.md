@@ -84,9 +84,7 @@ rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction contains 
 ```text
 rg_functionality = "Microsoft Windows" AND baseeventid = 4698 AND (resourcecustomfield1 contains "sc create uso start= auto binPath= “cmd.exe /c start /b C:\Programdata\addins.bat” DisplayName= uso")
 rg_functionality = "Microsoft Windows" AND baseeventid = 4698 AND (resourcecustomfield1 contains "sc create uso start= auto binPath= "cmd.exe /c start /b C:\Windows\addins\addins.bat" DisplayName= uso")
-
 rg_functionality = "Microsoft Windows" AND baseeventid = 4698 AND (resourcecustomfield1 contains "/CREATE" AND resourcecustomfield1 contains "schtasks" AND resourcecustomfield1 contains "cmd.exe /c C:\ProgramData\Intel\Intel.bat" AND resourcecustomfield1 contains "arm" AND resourcecustomfield1 contains "sc MINUTE" 
-
 rg_functionality = "Microsoft Windows" AND baseeventid = 4698 AND (resourcecustomfield1 contains "/CREATE" AND resourcecustomfield1 contains "schtasks" AND resourcecustomfield1 contains "cmd.exe /c C:\ProgramData\Adobe\arm.bat" AND resourcecustomfield1 contains "arm" AND resourcecustomfield1 contains "sc MINUTE")
 ```
 #### Endpoint Management Systems
@@ -190,21 +188,19 @@ rg_functionality = “Endpoint Management Systems” AND (deviceaction = “Proc
 (rg_functionality = “Next Generation Firewall” OR rg_functionality = “Web Application Firewall” OR rg_functionality = “Web Server” OR rg_functionality = “Web Proxy”) AND requesturl CONTAINS “class.module.classLoader.resources.context.parent.pipeline.first”
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# CVE-2022-26809 Windows RPC
+### Detects anomalous process spawned by the remote procedure call service (RPC)
+#### Endpoint Management Systems
+```text
+rg_functionality = “Endpoint Management Systems” AND (deviceaction = “Process Create” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2”) AND sourceprocessname = “svchost.exe” AND resourcecustomfield2 CONTAINS “RPCSS” | STATS destinationprocessname
+```
+# 7-Zip CVE-2022-29072
+#### Endpoint Management Systems
+```text
+(rg_functionality = "Endpoint Management Systems" AND (deviceaction = "Process Create" OR deviceaction = "ProcessCreate" OR deviceaction = "Process Create (rule: ProcessCreate)" OR deviceaction = "ProcessRollup2" OR deviceaction = "SyntheticProcessRollUp2" OR deviceaction = "WmiCreateProcess" OR deviceaction = "Trace Executed Process" OR deviceaction = "Process" OR deviceaction = "Childproc" OR deviceaction = "Procstart" OR deviceaction = "Process Activity: Launched")) AND sourceprocessname ENDS WITH "7zFM.exe" AND (resourcecustomfield1 NOT ENDS WITH ".bat" OR resourcecustomfield1 NOT ENDS WITH ".cmd" OR resourcecustomfield1 NOT ENDS WITH ".ps1")
+```
+# VMWare Workspace ONE Access and Identity Manager CVE-2022-22954
+#### Next Generation Firewall
+```text
+(rg_functionality = "Next Generation Firewall" OR rg_functionality = "Web Application Firewall" OR rg_functionality = "Web Server" OR rg_functionality = "Web Proxy") AND requesturl CONTAINS "/catalog-portal/ui/oauth/verify" AND requesturl CONTAINS "deviceUdid" AND requesturl CONTAINS "error="
+```
