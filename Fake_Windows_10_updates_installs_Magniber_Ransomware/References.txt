@@ -1,0 +1,3 @@
+https://www.bleepingcomputer.com/news/security/fake-windows-10-updates-infect-you-with-magniber-ransomware/
+https://www.virustotal.com/gui/file/c902ed13403c55e1c2dfb99ba7d8a878ac18e77712d68230e2b4cb4e15d85741/detection
+https://www.virustotal.com/gui/file/d579e758e16f54d3c3594aa4fabce0181ef25bf953cceda3a6c47c099a77a40a/detection
