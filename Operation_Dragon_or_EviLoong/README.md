@@ -1,7 +1,13 @@
 
 ## IOCs
 
-__ipaddress__:
+__hash__:
 
 ```text
+fc5d4cc0dbee5b184438a7f5dc3a804a
+52ced5aa64a999dbd68a3c2525102731
+4ce0604a5bbccd5f8edde3d3a195f6a2
+2caf2f56a1f0dafd11abbc74dc113088
+352f920aad028394a50d291889df51ea
+832bd69960770c053850de98387be50c
 ```
