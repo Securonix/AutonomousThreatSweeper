@@ -1,0 +1,2 @@
+https://www.netskope.com/blog/emotet-new-delivery-mechanism-to-bypass-vba-protection
+https://github.com/netskopeoss/NetskopeThreatLabsIOCs/tree/main/Emotet/IOCs/2022-05-06
