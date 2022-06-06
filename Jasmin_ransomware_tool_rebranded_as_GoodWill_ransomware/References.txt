@@ -1,0 +1,1 @@
+https://github.com/netskopeoss/NetskopeThreatLabsIOCs/tree/main/Jasmin%20Ransomware/IOCs
