@@ -1,0 +1,1 @@
+https://blog.malwarebytes.com/threat-intelligence/2022/06/taking-down-the-ip2scam-tech-support-campaign/, https://github.com/MBThreatIntel/TSS/blob/master/digital_ocean_IP2Scam.csv, https://github.com/MBThreatIntel/TSS/blob/master/digital_ocean_IP2Scam.csv
