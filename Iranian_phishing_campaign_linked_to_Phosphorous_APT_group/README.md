@@ -1,10 +1,14 @@
 
 ## IOCs
 
+__domain__:
+```text
+litby.us
+de-ma.online
+```
+
 __url__:
 
 ```text
-litby.us
-litby.us/Shagrir
-de-ma.online
+http://litby.us/Shagrir
 ```
