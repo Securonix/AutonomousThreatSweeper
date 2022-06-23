@@ -6,9 +6,6 @@ __domain__:
 ```text
 yrl.net
 0Ev.com
-www.openssl.org
-trikh.icu
-api.ipify.org
 trikh.icu
 ```
 __hash__:
