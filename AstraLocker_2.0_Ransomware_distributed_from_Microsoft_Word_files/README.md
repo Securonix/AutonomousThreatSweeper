@@ -4,7 +4,6 @@
 __hash__:
 
 ```text
-bc1qpjftnrmahzc8cjs23snk2rq0vt6l0ehu4gqxus
 cf3bdf0f8ea4c8ece5f5a76524ab4c81fea6c3a1715b5a86b3ad4d397fca76f3
 b0a010e5a9b353a11fb664501de91fc47878d89bf97cb57bc03428c7a45981b9
 17ea24ce8866da7ef4a842cba16961eafba89d526d3efe5d783bb7a30c5d1565
