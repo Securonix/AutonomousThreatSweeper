@@ -1,0 +1,1 @@
+https://www.netskope.com/blog/emotet-still-abusing-microsoft-office-macros https://github.com/netskopeoss/NetskopeThreatLabsIOCs/tree/main/Emotet/2022-06-24
