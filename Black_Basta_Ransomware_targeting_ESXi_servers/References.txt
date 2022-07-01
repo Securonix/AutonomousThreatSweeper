@@ -1,1 +1,1 @@
-https://research.nccgroup.com/2022/06/06/shining-the-light-on-black-basta/
+https://www.uptycs.com/blog/black-basta-ransomware-goes-cross-platform-now-targets-esxi-systems
