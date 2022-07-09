@@ -1,0 +1,24 @@
+
+## IOCs
+
+__hash__:
+
+```text
+d8045c7174c2649e96e68a01a5d77f7dec4846ebebb7ed04fa8b1325c14d84b0
+d388ed2139d0703b7c2a810b09e513652eb9402c92304addd34679e21a826537
+b37761715d5a2405a3fa75abccaf6bb15b7298673aaad91a158725be3c518a87
+bf58fe4f2c96061b8b01e0f077e0e891871ff22cf2bc4972adfa51b098abb8e0
+aa75211344aa7f86d7d0fad87868e36b33db1c46958b5aa8f26abefbad30ba17
+```
+__ipaddress__:
+
+```text
+20.227.128.33
+```
+__url__:
+
+```text
+http://20.227.128.33/ham.php
+http://20.227.128.33/2.txt
+http://20.227.128.33/index.php
+```
