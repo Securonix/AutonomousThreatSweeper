@@ -12,10 +12,10 @@ __url__:
 
 ```text
 https://kmsauto.us/someone/l.exe
-https[:]//kmsauto.us/v-mire/
-https[:]//kmsauto.us/kriminal/
-https[:]//kmsauto.us/religiya/
-https[:]//kmsauto.us/ekonomika/
+https://kmsauto.us/v-mire/
+https://kmsauto.us/kriminal/
+https://kmsauto.us/religiya/
+https://kmsauto.us/ekonomika/
 https://kmsauto.us/someone/start.ps1
 https://kmsauto.us/someone/spooler.exe
 https://kmsauto.us/someone/potato.exe
@@ -24,5 +24,5 @@ https://kmsauto.us/someone/ghost.exe
 __domain__:
 
 ```text
-kmsauto.u
+kmsauto.us
 ```
