@@ -1,0 +1,1 @@
+https://blog.cyble.com/2022/07/27/targeted-attacks-being-carried-out-via-dll-sideloading/, https://www.socinvestigation.com/threat-actors-leveraging-microsoft-applications-via-dll-sideloading-detection-response/
