@@ -17,5 +17,5 @@ csb.app
 __url__:
 
 ```text
-http: //email25.godaddy.com-sign-realm.getforge.io/
+http://email25.godaddy.com-sign-realm.getforge.io/
 ```
