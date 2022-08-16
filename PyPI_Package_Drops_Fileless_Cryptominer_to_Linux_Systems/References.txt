@@ -1,0 +1,1 @@
+https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero
