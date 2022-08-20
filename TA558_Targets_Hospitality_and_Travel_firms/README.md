@@ -9,7 +9,6 @@ cdt2021.zapto.org
 microsofft.sslblindado.com
 passagensv.sslblindado.com
 system11.sslblindado.com
-microsofft.sslblindado.com
 firefoxsystem.sytes.net
 googledrives.ddns.net
 successfully.hopto.org
@@ -21,12 +20,9 @@ quedabesouro.ddns.net
 queda212.duckdns.org
 3030pp.hopto.org
 vemvemserver.duckdns.org
-4success.zapto.org
-success20.hopto.org
 msin.hopto.org
 cdtpitbull.hopto.org
 111234cdt.ddns.net
-cdt2021.zapto.org
 ```
 __hash__:
 
@@ -47,9 +43,7 @@ __url__:
 ```text
 http://cdtmaster.com.br/DadosDaReserva.doc
 https://unimed-corporated.com/tur/turismo.jpg
-http://cdtmaster.com.br/DadosDaReserva.doc
 http://hypemediardf.com.pl/css/css.doc
 https://brasilnativopousada.com.br/Final.txt
 https://www.unimed-corporated.com/microsoft.txt
-https://unimed-corporated.com/tur/turismo.jpg
 ```
