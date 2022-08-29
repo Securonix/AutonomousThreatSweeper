@@ -1,5 +1,7 @@
 # Yanluowang Ransomware
 
+### NTDS Dump
+
 #### Microsoft Windows
 ```text
 rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds")
@@ -20,3 +22,45 @@ rg_functionality = "Antivirus / Malware / EDR" AND (deviceaction = “Process Cr
 rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction contains "Process Create" OR deviceaction contains "Childproc" OR deviceaction contains "ProcessRollup2" OR deviceaction contains "Procstart" OR deviceaction contains "Trace Executed Process") AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds" or resourcecustomfield2 contains "ac i ntds")
 ```
 
+### Log Clearing
+
+#### Microsoft Windows
+```text
+rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND (sourceprocessname contains wevtutil.exe or destinationprocessname contains wevtutil.exe) AND (resourcecustomfield1 contains "wevtutil.exe cl")
+```
+
+#### Endpoint Management Systems
+```text
+rg_functionality = "Endpoint Management Systems" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains wevtutil.exe or destinationprocessname contains wevtutil.exe) AND (resourcecustomfield1 contains "wevtutil.exe cl" or resourcecustomfield2 contains "wevtutil.exe cl")
+```
+
+#### Antivirus / Malware / EDR
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains wevtutil.exe or destinationprocessname contains wevtutil.exe) AND (resourcecustomfield1 contains "wevtutil.exe cl" or resourcecustomfield2 contains "wevtutil.exe cl")
+```
+
+#### Cloud Antivirus / Malware / EDR
+```text
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains wevtutil.exe or destinationprocessname contains wevtutil.exe) AND (resourcecustomfield1 contains "wevtutil.exe cl" or resourcecustomfield2 contains "wevtutil.exe cl")
+```
+
+### Firewall Modification
+
+#### Microsoft Windows
+```text
+rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND (sourceprocessname contains netsh or destinationprocessname contains netsh) AND (resourcecustomfield1 contains "advfirewall" and resourcecustomfield1 contains "set rule group=remote" and resourcecustomfield1 contains "desktop new enable=Yes")
+```
+
+#### Endpoint Management Systems
+```text
+rg_functionality = "Endpoint Management Systems" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains netsh or destinationprocessname contains netsh) AND ((resourcecustomfield1 contains "advfirewall" and resourcecustomfield1 contains "set rule group=remote" and resourcecustomfield1 contains "desktop new enable=Yes") OR (resourcecustomfield2 contains "advfirewall" and resourcecustomfield2 contains "set rule group=remote" and resourcecustomfield2 contains "desktop new enable=Yes"))
+```
+
+#### Antivirus / Malware / EDR
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains netsh or destinationprocessname contains netsh) AND ((resourcecustomfield1 contains "advfirewall" and resourcecustomfield1 contains "set rule group=remote" and resourcecustomfield1 contains "desktop new enable=Yes") OR (resourcecustomfield2 contains "advfirewall" and resourcecustomfield2 contains "set rule group=remote" and resourcecustomfield2 contains "desktop new enable=Yes"))
+```
+
+#### Cloud Antivirus / Malware / EDR
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains netsh or destinationprocessname contains netsh) AND ((resourcecustomfield1 contains "advfirewall" and resourcecustomfield1 contains "set rule group=remote" and resourcecustomfield1 contains "desktop new enable=Yes") OR (resourcecustomfield2 contains "advfirewall" and resourcecustomfield2 contains "set rule group=remote" and resourcecustomfield2 contains "desktop new enable=Yes"))
+```
