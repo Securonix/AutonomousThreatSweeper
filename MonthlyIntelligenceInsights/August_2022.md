@@ -81,8 +81,7 @@ rg_functionality = "Endpoint Management Systems" AND (deviceaction = “Process 
 ```text
 rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND (sourceprocessname = powershell.exe OR destinationprocessname = powershell.exe) AND (resourcecustomfield1 CONTAINS "http://" OR resourcecustomfield1 CONTAINS "https://") | RARE resourcecustomfield1
 
-rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND resourcecustomfield1 CONTAINS "powershell -w h -NoProfile -ExecutionPolicy Bypass -
-Command start-sleep -s 20;iwr" | RARE resourcecustomfield1
+rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND resourcecustomfield1 CONTAINS "powershell -w h -NoProfile -ExecutionPolicy Bypass - Command start-sleep -s 20;iwr" | RARE resourcecustomfield1
 ```
 
 ### Below queries detects persistence achieved by masquerading scheduled task services
