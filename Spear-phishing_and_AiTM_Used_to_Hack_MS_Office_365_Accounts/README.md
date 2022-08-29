@@ -12,7 +12,7 @@ dxdirect.web.app
 __url__:
 
 ```text
-https://awin1%%com/cread.php
+https://awin1.com/cread.php
 https://accounts.lointree.com/common/login
 https://accounts.lointree.com
 ```
