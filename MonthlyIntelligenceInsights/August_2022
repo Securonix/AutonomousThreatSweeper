@@ -1,0 +1,22 @@
+# Yanluowang Ransomware
+
+#### Microsoft Windows
+```text
+rg_functionality = "Microsoft Windows" AND baseeventid = 4688 AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds")
+```
+
+#### Endpoint Management Systems
+```text
+rg_functionality = "Endpoint Management Systems" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds" or resourcecustomfield2 contains "ac i ntds")
+```
+
+#### Antivirus / Malware / EDR
+```text
+rg_functionality = "Antivirus / Malware / EDR" AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”)  AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds" or resourcecustomfield2 contains "ac i ntds")
+```
+
+#### Cloud Antivirus / Malware / EDR
+```text
+rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction contains "Process Create" OR deviceaction contains "Childproc" OR deviceaction contains "ProcessRollup2" OR deviceaction contains "Procstart" OR deviceaction contains "Trace Executed Process") AND (sourceprocessname contains ntdsutil or destinationprocessname contains ntdsutil) AND (resourcecustomfield1 contains "ac i ntds" or resourcecustomfield2 contains "ac i ntds")
+```
+
