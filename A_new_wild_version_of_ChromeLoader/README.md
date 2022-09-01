@@ -1,0 +1,26 @@
+
+## IOCs
+
+__hash__:
+
+```text
+6A84FE906EBBEED933D7776731FE7118E1E028C1
+B7CD274E9C4036DC3F27D347A8428B40437A7AFA
+E1DCD96B5D14141E2F6EE50246E68EE7499E4D87
+```
+__domain__:
+
+```text
+Mplayeran.autos
+Withyourrety.xyz
+Freychang.fun
+```
+__ipaddress__:
+
+```text
+104.21.70.206
+172.67.139.75
+172.67.218.221
+104.21.51.237
+172.67.191.177
+```
