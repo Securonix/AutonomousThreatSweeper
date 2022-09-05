@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+25d6fccc82ec3c3c6786dcaa5d9f6920b769457502eef0759b235cd71c552b17
+2a4e5e6f403ce913cb073d5c5d1fd999d8ae79deb04915b9777525e05e21a2b2
+CD53FBA6DDD4AE4EF7A5747C6003236C85791477854CC1B7CE00E0F8EE7677D9
+F22041B2EA1FD6D8E7F6F1DB7469DEC61B000D067AB4BE2C5B0654EDFECBDDB6
+```
+__url__:
+
+```text
+https://raw.githubusercontent.com/alberfrancis/camo/main/432gsbse5
+https://api.telegram.org/bot5379338428:AAFkD8lIvAK1pvUDQYu-siFHUOxo7JlaziQ/getchat?chat_id=968019073
+https://api.telegram.org/bot1335021029:AAHbdgFSOPJ5KtcF1YMdtsN2jc7Yqu6Tou8/getchat?
+```
