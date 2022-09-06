@@ -5,7 +5,7 @@ __domain__:
 
 ```text
 redteamtools.msfven0m.xyz
-mofa-pk.]org
+mofa-pk.org
 nationalhelpdesk.pk
 org.pk
 rd.mofa-pk.org
