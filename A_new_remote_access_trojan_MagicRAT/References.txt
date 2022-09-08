@@ -1,0 +1,1 @@
+https://blog.talosintelligence.com/2022/09/lazarus-magicrat.html, https://github.com/Cisco-Talos/IOCs/tree/main/2022/09
