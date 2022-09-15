@@ -1,0 +1,19 @@
+
+## IOCs
+
+__hash__:
+
+```text
+e1826f107e517c0cb9a9b02f74cb94f2
+c994bc4ed56145b8ff80fb0c0fa47a39e19e0ca3
+164f6090aeabe48d2f9a2de12b8da6e8de24735a39371fe922e51689e969ad37
+510a37df4f363a938e32cae45d661c9d
+0976c8d6bd898c06faf90a6b99097ca6f66cca0c
+cd83d5f6eec9731fbc6c1ce5eee962f82bcf881a63af1f478e6a097760f758df
+```
+__domain__:
+
+```text
+www.f0679086.xsph.ru
+mamamiya137.ru
+```
