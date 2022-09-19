@@ -13,7 +13,7 @@ https://telegra.ph/Point-Blank-Cheat-05-29
 https://telegra.ph/Project-Zomboid-Private-Cheat-06-26
 https://telegra.ph/VRChat-Cheat-04-24
 https://github.com/AbdulYaDada/fdgkjhfdguoerldifgj
-https://raw.githubusercontent[.]com/AbdulYaDada/fdgkjhfdguoerldifgj/
+https://raw.githubusercontent.com/AbdulYaDada/fdgkjhfdguoerldifgj/
 ```
 __ipaddress__:
 
