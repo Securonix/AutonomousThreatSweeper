@@ -1,0 +1,18 @@
+
+## IOCs
+
+__url__:
+
+```text
+https://telegraac.com/supt.msi
+```
+__hash__:
+
+```text
+492fc768ab51f041a050dc1ed03cb776
+7bb583b67957cabe2cb81e8874742b0155eac731
+6c948823a0d5de2177f236b94c5e7458b02d5eb5c2198fdc48e533a33df74cbe
+2d4336156fec35bc7389a0b982e0fafc
+37980ac1fad099b016438578135d220b96a835ff
+72bb67734bf5f8c51718536e9b5dd9bcd1d70b43860a7736fd83d4e0ac9afdc6
+```
