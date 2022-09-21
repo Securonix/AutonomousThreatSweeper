@@ -1,0 +1,20 @@
+
+## IOCs
+
+__hash__:
+
+```text
+cf69e7cf0eef759f5c1604448be8e2ed4b2e4d02ad72724406f4aa19f501b08b
+b1f9b577088f00ffe54c1822578e0ca309c08589791249323b6db1e32f2d2a22
+061e17f3b2fd4a4dce1bf4f8a31198273f1abc47c32456d06fd5997ea4363578
+```
+__ipaddress__:
+
+```text
+185.176.43.106
+```
+__domain__:
+
+```text
+gg1593.c1.biz
+```
