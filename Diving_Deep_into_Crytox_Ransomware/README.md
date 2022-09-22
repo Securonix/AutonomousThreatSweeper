@@ -1,12 +1,6 @@
 
 ## IOCs
 
-__url__:
-
-```text
-http://aeoi.pl/15.ico
-http://aeoi.pl/21.ico
-```
 __hash__:
 
 ```text
@@ -21,10 +15,4 @@ __hash__:
 8ee4a58699ecf02dca516dc6b5b72d93fd9968f672b2be6f8920dfec027d7815
 c5550f44332750552921cb5d685ccfbeefa2ab4b03aed8c51c5db52bbe2ff5d4
 d60dc6965f6d68a3e7c82d42e90bfda7ad3c5874d2c59a66df6212aef027b455
-```
-__ipaddress__:
-
-```text
-149.248.8.148
-94.158.247.32
 ```
