@@ -1,0 +1,27 @@
+
+## IOCs
+
+__hash__:
+
+```text
+9fc7df2b2539ec3abeb90848903ad608a1101345
+e7f68dc6b8e4cabe5773a5b0b2306a404706de48
+0397b92bd8606e2b11ec6518c2df43decaf02382
+0f021a6c32f4d9053a9d8fb36749f8c434376fd1
+fdec8be5d5f2693fbfa36fdf38aa8f9932c6a34a
+00f2176edb17d970005fc70a66ecc587a84f8620
+3e2724b9a8ecf05661d91b02accdc1da7e43d513
+b5d35c1e75330c0b26ebbd562191beb7f03d726b
+```
+__ipaddress__:
+
+```text
+5.2.64.74
+5.2.77.52
+5.2.78.14
+```
+__domain__:
+
+```text
+networkselfhelp.com
+```
