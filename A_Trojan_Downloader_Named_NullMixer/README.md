@@ -18,7 +18,6 @@ https://presstheme.me/
 http://remviagra.com/pub1.exe
 http://privacy-tools-for-you-782.com/downloads/toolspab2.exe
 https://cdn.discordapp.com/attachments/917889480646590537/935966171835031612/Cube_WW6.exe
-http://onlinehueplet.com/77_1.exe
 https://cdn.discordapp.com/attachments/934006169125679147/943432754161410108/WW19.exe
 http://privacy-tools-for-you-791.com/downloads/toolspab1.exe
 https://cdn.discordapp.com/attachments/917889480646590537/943130993404018709/Fixtools.exe
@@ -44,7 +43,6 @@ https://signaturebusinesspark.com/360/fw4.exe
 https://signaturebusinesspark.com/360/fw6.exe
 https://cdn.discordapp.com/attachments/937783814208491553/937784072967692368/SecondFile.exe
 https://v.xyzgamev.com/23.html
-https://v.xyzgamev.com/login.html
 ```
 __hash__:
 
@@ -56,7 +54,6 @@ C41A85123AF144790520F502FE190110
 5B14369C347439BECACAA0883C07F17B
 7E58613DDB2FDD10EED17BBCE5B3E0A9
 883403C940B477CEE083EFEEA8C252C6
-98F0556A846F223352DA516AF66FA1A0
 CEADA3798FD16FAC13F053D0C6F4D198
 D91325640F392D33409B8F1B2315B97C
 3739256794EBF9BA8C6597A4687C8799
@@ -94,21 +91,6 @@ CE54B9287C3E4B5733035D0BE085D989
 __domain__:
 
 ```text
-ads-memory.biz
-all-mobile-pa1ments.com.mx
-all-smart-green.com
-am1420wbec.com/upload/
-appwebstat.biz
-banhamm.com
-buy-fantasy-fo0tball.com.sg
-buy-fantasy-gmes.com.sg
-connectini.net
-dll1.stdcdn.com
-dollybuster.at/upload/
-egsagl.com/upload/
-enter-me.xyz
-fennsports.com/upload/
-file-coin-host-12.com
 ginta.link
 hhiuew33.com/check/safe
 host-data-coin-11.com
@@ -145,4 +127,6 @@ __ipaddress__:
 212.193.30.45
 5.9.224.217
 92.255.57.115
+137.184.159.42
+104.168.215.231
 ```
