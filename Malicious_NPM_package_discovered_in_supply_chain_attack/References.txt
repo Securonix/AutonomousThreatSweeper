@@ -1,0 +1,1 @@
+https://blog.reversinglabs.com/blog/threat-analysis-malicious-npm-package-mimicks-material-tailwind-css-tool
