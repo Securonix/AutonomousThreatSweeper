@@ -1,1 +1,15 @@
-https://docs.google.com/spreadsheets/d/1Now95XPSkvEiCJy5H5iqgTDKi_ATZeBY_PhnxSUhWl8/edit#gid=0
+https://bazaar.abuse.ch/
+https://threatfox.abuse.ch/
+https://research.nccgroup.com/2022/08/19/back-in-black-unlocking-a-lockbit-3-0-ransomware-attack/
+https://blogs.blackberry.com/en/2022/08/lockbit-3-0-ransomware-abuses-windows-defender-to-load-cobalt-strike
+https://www.infinitumit.com.tr/wp-content/uploads/2022/08/lockbit-black-ransomware-3.0.pdf
+https://www.hivepro.com/wp-content/uploads/2022/08/LockBit-3.0-makes-a-comeback-by-exploiting-Log4j_TA2022162.pdf
+https://asec.ahnlab.com/en/39242/
+https://malware.news/t/nsis-type-of-lockbit-3-0-ransomware-disguised-as-job-application-emails-being-distributed/63682
+https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
+https://blog.cyble.com/2022/07/05/lockbit-3-0-ransomware-group-launches-new-version/
+https://cluster25.io/2022/07/06/lockbit-3-0-making-the-ransomware-great-again/
+https://cybergeeks.tech/a-technical-analysis-of-the-leaked-lockbit-3-0-builder/
+https://www.trendmicro.com/en_us/research/22/g/lockbit-ransomware-group-augments-its-latest-variant--lockbit-3-.html
+https://www.sentinelone.com/labs/lockbit-3-0-update-unpicking-the-ransomwares-latest-anti-analysis-and-evasion-techniques/
+https://asec.ahnlab.com/en/39259/
