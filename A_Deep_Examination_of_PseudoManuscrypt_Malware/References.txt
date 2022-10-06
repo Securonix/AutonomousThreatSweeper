@@ -1,0 +1,1 @@
+https://www.bitsight.com/blog/zero-50k-infections-pseudomanuscrypt-sinkholing-part-1
