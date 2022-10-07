@@ -171,7 +171,7 @@ www.liquityp.xyz
 www.sbicoinvip.com
 www.sbieth-mining.xyz
 ```
-__hash__:
+__IPs__:
 
 ```text
 8.210.232.124
