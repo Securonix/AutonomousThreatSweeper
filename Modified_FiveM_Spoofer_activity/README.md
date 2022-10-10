@@ -1,0 +1,27 @@
+
+## IOCs
+
+__url__:
+
+```text
+https://cloud-spoofer.xyz/
+https://cloud-spoofer.xyz/AnyDesk.exe
+https://cloud-spoofer.xyz/GameOverlayUI.exe
+https://cloud-spoofer.xyz/AURLesk.exe
+```
+__hash__:
+
+```text
+f161af9b9caec7e99e85f924a4161514929b0b6ab176f66555cdb3274d5ca633
+f3991147e742ba18a277f06900d3a9f73a471479
+2994e21b35be95d056130e28f2aaca4f
+205ed7d1eef37774c1b4499eec76b796f41edd256ac2e441afe3b0e144ef3f46
+ea52d2b743934c1d22d1994f98732ddc86001d3d
+7f4ec1579a0d3d05225226ad2321dcd3
+079b1480ebabfb06545ce9723616f8fd02640cca2ff2e300255509e28ae9db8b
+a51a3c3aec182eb8cfd052eac0f56b31eaada03c
+67a7ebbc7c94ed3fbaad5cdac96a7997
+b041a434b7700cdaa563c018c7d84e53a2f4ca98260518a15031dd44f65decd1
+54ef9f572a21698112107d1980c0a59fe68c4a16
+f107bc215564928d5f76070f1686932b
+```
