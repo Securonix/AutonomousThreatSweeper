@@ -1,0 +1,27 @@
+
+## IOCs
+
+__url__:
+
+```text
+https://convertigoto.net/cc/flesd/3.bat
+https://convertigoto.net/cc/flesd/2.bat
+https://convertigoto.net/cc/flesd/YourConvertedFile59417.exe
+https://convertigoto.net/
+```
+__hash__:
+
+```text
+0350d40da8135fe9c8c61a939602dedd
+8be13313460c5f1befb20a1051f9f850
+209b97fe681f86b71162153b4ddbce32
+303c63a7c8d3b15c72e079e720fc4ae4
+6e30860d6b5c6348d7143f74b2ad734eee716da3
+1089a26c46bb0e5a247593e5defd80503dc0d4950ee522f1de54fca99b1c21f6
+9e1dafcd668cb89d82ae85806d5b67f54509cb55
+f74b170a7f8258bc8824f0f5efad26e8081f793cc1c4d5282a5fcc43c3d71368
+18ddf2b3f414a970cc3915dc69b8d06eff55d4da
+70f56299a49fdb0994adfff42b3d4b74f7036193d8a783ee8223180bf0b30bed
+9dac60afed2565c94ed3e1716032a9d989f82307
+eb7d31a5a641b057aa250442dc5252d4214ca282632ebd24a79644fe358fbe18
+```
