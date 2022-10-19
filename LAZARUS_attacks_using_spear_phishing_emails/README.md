@@ -8,7 +8,6 @@ https://thetalkingcanvas.com/thetalking/globalcareers/us/5/careers/jobinfo.php?i
 https://aquaprographix.com/patterns/Map/maps.php
 https://turnscor.com/wp-includes/feedback.php
 http://www.stracarrara.org/images/img.asp
-https://aquaprographix.com/patterns/Map/maps.php
 ```
 __hash__:
 
