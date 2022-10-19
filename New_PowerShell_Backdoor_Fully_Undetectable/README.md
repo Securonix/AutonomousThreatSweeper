@@ -1,0 +1,22 @@
+
+## IOCs
+
+__url__:
+
+```text
+http://45.89.125.189/put
+http://45.89.125.189/get
+```
+__hash__:
+
+```text
+45f293b1b5a4aaec48ac943696302bac9c893867f1fc282e85ed8341dd2f0f50
+54ed729f7c495c7baa7c9e4e63f8cf496a8d8c89fc10da87f2b83d5151520514
+bda4484bb6325dfccaa464c2007a8f20130f0cf359a7f79e14feeab3faa62332
+16007ea6ae7ce797451baec2132e30564a29ee0bf8a8f05828ad2289b3690f55
+```
+__ipaddress__:
+
+```text
+45.89.125.189
+```
