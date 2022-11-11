@@ -43,6 +43,10 @@ ff9edd81d641b7d1d6175007e20e123e7f3222201e3fc3047d4fb3a232ab0683
 878e2105d4f1dd5e8957f7183e1c9c62
 adfd3cde25019526083e091f546a26a2eb033ecc
 861562690b5b005b733baebdbbfa39d8dbed512233723046d8f59e15bc1b091a
+65d9d5c0a65355b62f967c57fa830348
+64389305b712201a7dd0dc565f3f67e6
+87fdbba19c131e74fbe2f98b135751d5
+4aea7dd048106492a8c3d200924a3c39
 ```
 __url__:
 
@@ -53,5 +57,9 @@ http://cursosweb.com.br/portal/6ozjR/
 http://db.rikaz.tech/lCx76IlkrBtEsqNFA7/
 https://bayernbadabum.com/botpack.dat
 http://87.251.67.176/tps1.ps1	
-http://134.209.118.141/bb.dll	
+http://134.209.118.141/bb.dll
+https://aldina.jp/wp-admin/YvD46yh/
+https://www.alliance-habitat.com/cache/lE8/
+https://anguklaw.com/microsoft-clearscript/oVgMlzJ61/
+https://andorsat.com/css/5xdvDtgW0H4SrZokxM/
 ```
