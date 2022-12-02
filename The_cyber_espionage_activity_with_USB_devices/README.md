@@ -1,0 +1,20 @@
+
+## IOCs
+
+__domain__:
+
+```text
+closed.theworkpc.com
+```
+__hash__:
+
+```text
+f45726a9508376fdd335004fca65392a
+707de51327f6cae5679dee8e4e2202ba
+7753da1d7466f251b60673841a97ac5a
+6900cf5937287a7ae87d90a4b4b4dec5
+ea7f5b7fdb1e637e4e73f6bf43dcf090
+f632e4b9d663d69edaa8224a43b59033
+8ec339a89ec786b2aea556bedee679c7
+c10abb9f88f485d38e25bc5a0e757d1e
+```
