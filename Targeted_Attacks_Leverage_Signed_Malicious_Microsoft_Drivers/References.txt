@@ -1,0 +1,1 @@
+https://www.mandiant.com/resources/blog/hunting-attestation-signed-malware, https://www.sentinelone.com/labs/driving-through-defenses-targeted-attacks-leverage-signed-malicious-microsoft-drivers/
