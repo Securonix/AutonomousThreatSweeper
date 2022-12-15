@@ -1,14 +1,9 @@
 
 ## IOCs
 
-__ipaddress__:
+__hash__:
 
 ```text
-127.0.0.1
-```
-__domain__:
-
-```text
-vmtools.py
-local.sh
+773d147a031d8ef06ee8ec20b614a4fd9733668efeb2b05aa03e36baaf082878
+ceeb337778efe3c62a4ce04d750f60e773133dc7c99b661a5040e35afa16f426
 ```
