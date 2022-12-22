@@ -1,0 +1,1 @@
+https://www.fortinet.com/blog/threat-research/new-supply-chain-attack-uses-python-package-index-aioconsol
