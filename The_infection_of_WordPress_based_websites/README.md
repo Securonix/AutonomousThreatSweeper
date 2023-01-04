@@ -8,9 +8,9 @@ lobbydesires.com
 letsmakeparty3.ga
 deliverygoodstrategies.com
 gabriellalovecats.com
-css[.]digestcolect.com
-clon[.]collectfasttracks.com
-count[.]trackstatisticsss.com
+css.digestcolect.com
+clon.collectfasttracks.com
+count.trackstatisticsss.com
 ```
 __ipaddress__:
 
