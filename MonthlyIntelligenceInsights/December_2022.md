@@ -37,3 +37,18 @@ rg_functionality = "Cloud Antivirus / Malware / EDR" AND (deviceaction = “Proc
 rg_functionality = "Unix / Linux / AIX" AND resourcecustomfield5 CONTAINS "$HOME/.config/ssh.service/sshf" AND (resourcecustomfield5 CONTAINS "sshf")
 ```
 
+
+# STEPPY#KAVACH
+
+#### Endpoint Management Systems
+```text
+rg_functionality = “Endpoint Management Systems” AND (deviceaction = “Process Create” OR deviceaction = “ProcessCreate” OR deviceaction = “Process Create (rule: ProcessCreate)” OR deviceaction = “ProcessRollup2” OR deviceaction = “SyntheticProcessRollUp2” OR deviceaction = “WmiCreateProcess” OR deviceaction = “Trace Executed Process” OR deviceaction = “Process” OR deviceaction = “Childproc” OR deviceaction = “Procstart” OR deviceaction = “Process Activity: Launched”) AND sourceprocessname = “mshta.exe” AND (destinationprocessname = “powershell.exe” OR destinationprocessname = “cscript.exe” OR destinationprocessname E= “wscript.exe” OR destinationprocessname = “msiexec.exe” OR destinationprocessname = “rundll32.exe” OR destinationprocessname = “msbuild.exe”)
+```
+
+```text
+rg_functionality = “Endpoint Management Systems” AND (deviceaction ENDS WITH “Written” OR deviceaction = “File created”) AND (customstring49 ENDS WITH “\ProgramData\8292.png” OR filepath ENDS WITH “\ProgramData\mm1.exe” OR customstring49 ENDS WITH “\ProgramData\kohl.js” OR customstring49 ENDS WITH “\ProgramData\kohlw.js” OR customstring49 ENDS WITH “\ProgramData\kohld.js” OR customstring49 ENDS WITH “\ProgramData\update.js” OR customstring49 ENDS WITH “\ProgramData\parhai.js” OR customstring49 ENDS WITH “\ProgramData\r.js” OR customstring49 ENDS WITH “\ProgramData\kohlw.js”)
+```
+
+```text
+rg_functionality = “Endpoint Management Systems” AND deviceaction = “Network connection detected” AND destinationprocessname = “mshta.exe” AND (destinationaddress != “10.0.0.0/8” OR destinationaddress != “172.16.0.0/12” OR destinationaddress != “192.168.0.0/16” OR destinationaddress != “127.0.0.1” OR destinationaddress != “127.0.0.0/8” OR destinationaddress != “169.254.0.0/16”)
+```
