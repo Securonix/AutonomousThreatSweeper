@@ -9,7 +9,7 @@ __hash__:
 c3e5996760ab33ce2a69db5d9ed01e36db43587a742b460e878f620ff34e1c3b
 ```
 
-## IOCs
+## Updated IOCs
 
 __hash__:
 
