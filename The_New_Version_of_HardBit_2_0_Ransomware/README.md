@@ -1,0 +1,21 @@
+
+## IOCs
+
+__hash__:
+
+```text
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+b565a7b25dc4227872fe972ceee9ff8fce91eb10b373ebc9401f4f32348244ef
+422e0e4e01c826c8a9f31cb3a3b37ba29fb4b4b8c4841e16194258435056d8a3
+a0138b24593483f50ae7656985b6d6cfe77f7676ba374026199ad49ad26f2992
+cb239d641cfa610b1eaf0ecd0f48c42dd147f547b888e4505297c4e9521d8afe
+fafbe16c5646bf1776dd3ef62ba905b9b2cb0ee51043859a2f3cdda7dfe20d4c
+```
+__emailid__:
+
+```text
+alexgod5566@xyzmailpro.com
+filetest@decoymail.net
+filetest@onionmail.org
+godgood55@tutanota.com
+```
