@@ -1,0 +1,1 @@
+https://www.reversinglabs.com/blog/beware-impostor-http-libraries-lurk-on-pypi
