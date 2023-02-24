@@ -1,0 +1,1 @@
+https://checkmarx.com/blog/how-npm-packages-were-used-to-spread-phishing-links/
