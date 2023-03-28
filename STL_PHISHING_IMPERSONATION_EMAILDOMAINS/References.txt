@@ -1,0 +1,2 @@
+Intelligence Source - Securonix Threat Labs
+Description - Potential phishing and impersanation activity is suspected for the listed email domains. There are several email domains that have been identified as recently used by phishers to impersonate FedEx.
