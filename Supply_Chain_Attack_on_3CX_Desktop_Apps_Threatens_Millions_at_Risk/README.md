@@ -95,3 +95,17 @@ sourceslabs.com
 visualstudiofactory.com
 zacharryblogs.com
 ```
+
+## Updated IOCs
+
+__hash__:
+
+```text
+8ab3a5eaaf8c296080fadf56b265194681d7da5da7c02562953a4cb60e147423
+```
+__url__:
+
+```text
+https://raw.githubusercontent.com/IconStorages/images/main/icon[%EC%88%AB%EC%9E%90].ico
+```
+
