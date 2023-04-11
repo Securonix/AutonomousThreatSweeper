@@ -1,0 +1,1 @@
+https://medium.com/checkmarx-security/who-broke-npm-malicious-packages-flood-leading-to-denial-of-service-77ac707ddbf1
