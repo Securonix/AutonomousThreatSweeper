@@ -1,0 +1,1 @@
+https://jfrog.com/blog/impala-stealer-malicious-nuget-package-payload/
