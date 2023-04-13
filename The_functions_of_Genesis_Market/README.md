@@ -56,3 +56,15 @@ https://you-rabbit.com/api/machine/injections?uuid
 https://you-rabbit.com/api/machine/settings
 https://don-dns.com/hittest.php?a
 ```
+
+## Updated IOCs
+
+__hash__:
+
+```text
+b3e56f7affa17403d3df4ebf4c95b14928798bd6
+78c43eb6d80888c8153868ebc60ca522185a1fce
+f811f77f5b53c13a06b43b10eb6189513f66d2a2
+e87a4c23eac88803f27565c2a035222473167a14
+36af8aac85d4770146d7b6c6cbb0dc7691c6263a
+```
