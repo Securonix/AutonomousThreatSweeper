@@ -36,7 +36,7 @@ d17317e1d5716b09cee904b8463a203dc6900d78ee2053276cc948e4f41c8295
 
 ## Updated IOCs
 
-__hash__:
+__updated hash__:
 
 ```text
 ef09b8ff86c276e9b475a6ae6b54f08ed77e09e169f7fc0872eb1d427ee27d31
