@@ -1,0 +1,20 @@
+
+## IOCs
+
+__hash__:
+
+```text
+dcf060e00547cfe641eff3f836ec08c8
+8054569d8b449e4cd0211cb2499c19f42557fb21
+2565158b0a023299c1922423a065b9825fd1769f1a87ffd2031375a0e893d523318
+9a239885dc7044a9289610d58585167b
+28b8b4c9fe29ba0e815e525d2529b92217877e85
+0de0da8037176c3c9cb403e2865a7699e53ff5a013070132ba512b9dab7a0126
+```
+__url__:
+
+```text
+https://whyers.io/qwewqdsvsf/ap.php
+http://whyers.io/qwewqdsvsf/ap.php
+http://80.66.75.116/tst.bat
+```
