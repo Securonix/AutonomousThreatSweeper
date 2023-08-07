@@ -37,5 +37,5 @@ __url__:
 ```text
 http://80.66.75.37
 http://185.209.230.21:8080
-https_://whyers.io/qwewqdsvsf/ap.php
+https://whyers.io/qwewqdsvsf/ap.php
 ```
