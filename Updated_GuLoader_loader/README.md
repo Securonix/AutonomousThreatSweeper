@@ -7,7 +7,6 @@ __domain__:
 img.softmedal.com
 gbwhotel.com.my
 top1.banifabused1.xyz
-acrobat.adobe.com
 shorturl.at
 mail.tasekmaju.com.my
 ```
