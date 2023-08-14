@@ -1,0 +1,1 @@
+https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell#:~:text=Akamai%20researchers%20have%20discovered%20an%20ongoing%20server-side%20template,of%20the%20attacker%E2%80%99s%20command%20and%20control%20%28C2%29%20server.
