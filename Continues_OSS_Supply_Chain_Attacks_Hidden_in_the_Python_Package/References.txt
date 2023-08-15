@@ -1,0 +1,1 @@
+https://www.fortinet.com/blog/threat-research/continued-oss-supply-chain-attacks-hidden-in-pypi
