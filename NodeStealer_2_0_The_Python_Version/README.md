@@ -10,7 +10,6 @@ dongvanfb.net
 hotmailbox.me
 adgowin66.site
 getcode.hotmailbox.me
-www.facebook.com
 api.hotmailbox.me
 ```
 __hash__:
