@@ -20,7 +20,7 @@ __ipaddress__:
 65.21.108.160
 ```
 
-__domains__:
+__domain__:
 
 ```text
 6wxd3v84nevku06dcgbqcxrmt.canarytokens.com
