@@ -1,0 +1,27 @@
+
+## IOCs
+
+__domain__:
+
+```text
+cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion
+dcpuyivlbzx56hqwsvey33bxobxw3timjgljjy3index6qvdls5bjoad.onion
+wwwieqvblhnel7wsb6jpxeen3dbmsqyozj2gzl2oyn6swrkq27jtusqd.onion
+47h4pwve4scndaneljfnxdhzoulgsyfzbgayyonbwztfz74gsdprz5qd.onion
+zxzs677rphmjznqgqzlsmjtqwqlydq47rwjesrt4dkkh6cc2ftlfhuqd.onion
+cock.li
+```
+__hash__:
+
+```text
+d5fba798bb2a0aaca17f17fa14f2ff240be8d34d
+7cf3b23cdb8c5fd74b094f76eb4ffc38e18bd58a
+7ef712604fca6ad5a368745a015354aba74f5f61
+a3ff2d575adc8edb088706e1de1a18a2d789cd73
+c374252e4cff08e3abcda06503998cd3d3ef8322
+```
+__emailid__:
+
+```text
+miklymakly555@cock.li
+```
