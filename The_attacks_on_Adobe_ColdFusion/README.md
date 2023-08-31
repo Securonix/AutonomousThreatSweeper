@@ -1,0 +1,26 @@
+
+## IOCs
+
+__domain__:
+
+```text
+mooo-ng.com
+redteam.tf
+h4ck4fun.xyz
+```
+__ipaddress__:
+
+```text
+81.68.214.122
+81.68.197.3
+82.156.147.183
+103.255.177.55
+```
+__hash__:
+
+```text
+7c6f0bae1e588821bd5d66cd98f52b7005e054279748c2c851647097fa2ae2df
+590d3088ed566cb3d85d48f4914cc657ee49b7d33e85c72167e7c72d81d4cb6c
+808f0f85aee6be3d3f3dd4bb827f556401c4d69a642ba4b1cb3645368954622e
+4f22fea4d0fadd2e01139021f98f04d3cae678e6526feb61fa8a6eceda13296a
+```
