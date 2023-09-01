@@ -1,0 +1,18 @@
+
+## IOCs
+
+__ipaddress__:
+
+```text
+77.88.55.60
+```
+__hash__:
+
+```text
+d7d20a9d74a3f0b5b0b98de937ebbf85
+09ce91b4f137a4cbc1496d3791c6e75b
+604fd6351a04b871dc77b6c7ad24ff3c
+1ac0c10947e09efa8e730ea9e28d8382
+c2e1048e1e5130e36af297c73a83aff6
+7e1577b6e42d47b30ae597eee720d3b1
+```
