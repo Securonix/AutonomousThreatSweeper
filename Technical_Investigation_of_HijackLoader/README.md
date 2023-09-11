@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+7bd39678ac3452bf55359b44c5192b79412ce61a82cd72eef88f91aba5792ee6
+6b1621bded06b082f83c731319c9deb2fdf751a4cec1d1b2b00ab9e75f4c29ca
+e67790b394f5238908fcc326a9db940b200d9b50cbb45f0bfa94038db50beeae
+693cace37b4b6fed2ca67906c7a4b1c11273110561a207a222aa4e62fb4a184a
+04c0a4f3b5f787a0c9fa8f6d8ef19e01097185dd1f2ba40ae4bbbeca9c3a1c72
+```
+__url__:
+
+```text
+https://www.4sync.com/web/directdownload/kftzysvo/4jbkm7r0.baa89a7b43a7b73227f22ae561718f7f
+https://geupdate-service.bond/img/3344379399.png
+```
