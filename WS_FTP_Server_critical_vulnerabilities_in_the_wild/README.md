@@ -71,3 +71,15 @@ filebin.net
 oastify.com
 tmpfiles.org 
 ```
+
+## Updated IOCs - 17-10-2023
+
+__ipaddress__:
+
+```text
+188.126.94.108
+103.163.187.12
+95.214.24.238
+86.48.3.172
+```
+
