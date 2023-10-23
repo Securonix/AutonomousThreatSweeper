@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+ec2-3-94-91-208.compute-1.amazonaws.com
+```
+__hash__:
+
+```text
+e4eb623a0f675960acb002d225c6f1d6
+b625c18e177d5beb5a6f6432ccf46fb3
+7074832f0efb8a2130b1935eae5a90d6
+b0db6ada5b81e42aadb82032cbc5fd60
+32de5c2e0ba35ceac3c515fa767e42bf
+5da8c98136d98dfec4716edd79c7145f
+d07e4afd8f26f3e2ce4560e08b7278fb
+f11c63cb70a726f1f0b6accd5934e83
+532af2db4c10352b2199724d528f535f
+```
