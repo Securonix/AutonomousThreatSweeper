@@ -1,0 +1,26 @@
+
+## IOCs
+
+__domain__:
+
+```text
+akira.red
+store7.gofile.io
+api.gofile.io
+store4.gofile.io
+akira.red
+store1.gofile.io
+store11.gofile.io
+```
+__hash__:
+
+```text
+016dfdd45c8208d246d59327c40355e0
+81e7ff1742d45075305a2082b1a7ac9d
+c9e84d2fed103f6c7a8f1822a42da643
+4027c802411f8b4091c5c4eb077efa49
+b14262297bdfc61e2103eed6d77dce42bd3076c31912b4143151dfa36f751411
+3981ea2f66e197c3fb644184a33f2553fed51e175aa0402e77d1e324c96e1326
+50e36d96cb593c39afa2fc11ac25c976f0ff1586159d2eb2626902e6d6062f81
+03564dc699f82f7e5d52046d82863ceddc6d657c66c0078f88cfe9cf1953187b
+```
