@@ -125,3 +125,11 @@ eb5dfd6a133128a5d2c7183940639ead5e3aa33aa5ba581ce8d91ee113e4931f
 b1ed4acd9128d49b5a619e8607cac13b33a8743e717a937c9ee9e6d963375867
 af766ba5f46115470242fa6033f4f4ba85c82b6d5a001ebfee8482e51d793e1d
 ```
+
+## Updated IOCs
+
+__domain__:
+
+```text
+cryptomus.com
+```
