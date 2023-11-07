@@ -83,3 +83,20 @@ __ipaddress__:
 86.48.3.172
 ```
 
+## Updated IOCs - 07-11-2023
+
+__domain__:
+
+```text
+nvd.nist.gov
+community.progress.com
+www.assetnote.io
+```
+
+__hashes__:
+
+```text
+9c313be764ad631490a8029e5a411523
+5bf7426379fe5eb5d0cd2ed13aa9a101
+11939b0f83537612cab531630a981da7
+```
