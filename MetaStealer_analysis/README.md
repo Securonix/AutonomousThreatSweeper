@@ -40,7 +40,6 @@ csyeywqwyikqaiim.xyz
 mmswgeewswyyywqk.xyz
 ockimqekmwecocug.xyz
 wgcuwcgociewewoo.xyz
-accounts.google.com
 cewgwsyookogmmki.xyz
 iqaeaoeueeqouweo.xyz
 rawnotepad.com
