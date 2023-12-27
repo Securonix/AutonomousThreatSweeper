@@ -30,5 +30,4 @@ __url__:
 receipt-view.blogspot.com
 legal-advocate.screenconnect.com
 paste.ee/d/k7m1f/0
-uploaddeimagens.com.br
 ```
