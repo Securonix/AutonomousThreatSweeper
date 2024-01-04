@@ -23,14 +23,19 @@ b1f8484ee01a7730938210ea6e851888
 __url__:
 
 ```text
-cluster00<x>.ovh.net
+http://cluster00x.ovh.net
+http://new-tech-savvy.com/6.hta
+http://new-tech-savvy.com/5.hta
+http://new-tech-savvy.com/algo.hta
+http://new-tech-savvy.com/shablon.hta
+http://new-tech-savvy.com/word_update.exe
+http://new-tech-savvy.com/zayava.docx
+http://new-tech-savvy.com/ofer.docx
+```
+
+__ipaddress__:
+
+```text
 194.87.31.229
 46.249.58.40
-new-tech-savvy.com/6.hta
-new-tech-savvy.com/5.hta
-new-tech-savvy.com/algo.hta
-new-tech-savvy.com/shablon.hta
-new-tech-savvy.com/word_update.exe
-new-tech-savvy.com/zayava.docx
-new-tech-savvy.com/ofer.docx
 ```
