@@ -1,0 +1,18 @@
+
+## IOCs
+
+__domain__:
+
+```text
+sduyvzep.top
+orivzije.top
+zpeifujz.top
+```
+__hash__:
+
+```text
+ec48d692547341789a9205f607983f9cd485435df4fefda1654a5eccbe12bfb0
+f5ad2158644b79eb5e5c1226ed9c1597dafde9b3376de5dc3e02673d135b487a
+29dcf858f36f68827696a9a3ea1b4a821180569ab297d2f73c740b15832302d3
+ae549e5f222645c4ec05d5aa5e2f0072f4e668da89f711912475ee707ecc871e
+```
