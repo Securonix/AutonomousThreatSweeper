@@ -18,7 +18,7 @@ ee198ab059b0e180757e543ab6e02bed
 __url__:
 
 ```text
-kyochonchlcken.com/share/favela.r6map
-kyochonchlcken.com/share/1.exe
-kyochonchlcken.com/share/bankg.r6map
+http://kyochonchlcken.com/share/favela.r6map
+http://kyochonchlcken.com/share/1.exe
+http://kyochonchlcken.com/share/bankg.r6map
 ```
