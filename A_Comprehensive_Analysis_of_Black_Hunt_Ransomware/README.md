@@ -1,0 +1,24 @@
+
+## IOCs
+
+__hash__:
+
+```text
+c25f7b30d224d999ce337a13224c1cde9ffb3f415d7113548de9914a1bb3f123
+74df3452a6b9dcdba658af7a9cf5afb09cce51534f9bc63079827bf73075243b
+35619594724871138875db462eda6cf24f2a462e1f812ff27d79131576cd73ab
+32877793a1e0d72235e9e785e1f55592c32c9f08b73729815b8103b09a54065f
+7eea62dcae4e2e5091dd89959529ae047071415a890dda507db4c53b6dcab28b
+13a5c3b72f81554e04b56d960d3a503a4b08ec77abb43756932a68b98dac1479
+```
+__emailid__:
+
+```text
+teikobest@gmail.com
+loxoclash@gmail.com
+```
+__url__:
+
+```text
+http://sdif9821kjsdvcjlksaf2kjhlksvvnktyoiasuc921f.onion
+```
