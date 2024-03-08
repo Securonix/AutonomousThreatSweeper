@@ -11,9 +11,6 @@ oncloud-analytics.com
 cloudflareaddons.com
 textsmsonline.com
 proreceive.com
-www.fernandestechnical.com/pub/health_check.php
-biondocenere.com/pub/health_check.php
-www.miltonhouse.nl/pub/opt/processor.php
 ```
 __ipaddress__:
 
@@ -70,4 +67,7 @@ http://94.156.71.115/baba.dat
 http://oncloud-analytics.com/files/mg/elf/rt1.50.png
 http://cloudflareaddons.com/assets/img/image_slider15.1.png
 https://theroots.in/pub/media/avatar/223sam.jpg
+http://www.fernandestechnical.com/pub/health_check.php
+http://biondocenere.com/pub/health_check.php
+http://www.miltonhouse.nl/pub/opt/processor.php
 ```
