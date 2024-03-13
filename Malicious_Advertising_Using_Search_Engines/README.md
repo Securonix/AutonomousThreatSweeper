@@ -56,7 +56,6 @@ unity-software.org
 webull-download.com
 webull-download.net
 webull-download.org
-blender3d-software.org
 ```
 __ipaddress__:
 
