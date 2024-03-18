@@ -1,0 +1,9 @@
+
+## IOCs
+
+__hash__:
+
+```text
+0e5470a33fd87b813ecf72370f9e1f491515c12f41c8ea3c7bbc169ac56acda5
+476171dd2eb7f118d3e0aff32b7264d261ba4c2d9fa6c14ccff6d8d99b383db4
+```
