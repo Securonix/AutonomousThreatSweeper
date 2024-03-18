@@ -28,3 +28,12 @@ https://content.dropboxapi.com/2/files/download/step2/info_ps.bin
 https://content.dropboxapi.com/2/files/download/step2/ad_ps.bin
 https://content.dropboxapi.com/2/files/download/step2/info_sc.txt
 ```
+
+__spotterquery__:
+
+```text
+index = activity AND rg_functionality=”Next Generation Firewall” AND requesturl CONTAINS “content.dropboxapi.com/2/files/download/step2/” AND (requesturl CONTAINS “ps.bin” OR requesturl CONTAINS “r_enc.bin” OR requesturl CONTAINS “info_sc.txt” OR requesturl CONTAINS “info_ps.bin” OR requesturl CONTAINS “ad_ps.bin”)
+index = activity AND rg_functionality = “Endpoint Management Systems” AND (deviceaction = “File created” OR deviceaction = “File created (rule: FileCreate)”) AND customstring49 ENDS WITH “Appdata\Microsoft\Windows\Themes\version.xml”
+index = activity AND rg_functionality = “Microsoft Windows Powershell” AND (message CONTAINS “content.dropboxapi.com/2/files/download” OR message CONTAINS “content.dropboxapi.com/2/files/upload”)
+index = activity AND rg_functionality = “Endpoint Management Systems” AND (deviceaction = “File created” OR deviceaction = “File created (rule: FileCreate)”) AND customstring49 CONTAINS “\AppData\Local\Temp\” AND customstring49 CONTAINS “.zip” AND customstring49 ENDS WITH “.lnk”
+```
