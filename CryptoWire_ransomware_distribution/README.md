@@ -17,5 +17,5 @@ f58702371a05c75c6caa99799298c48ec51bda73
 __url__:
 
 ```text
-http://194.156.98[.]51/bot/log.php
+http://194.156.98.51/bot/log.php
 ```
