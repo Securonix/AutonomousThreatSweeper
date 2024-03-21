@@ -26,7 +26,6 @@ http://redacted/jspui/ldr.sh
 http://redacted/jspui/cron
 https://sites.google.com/view/osk05/osk/e
 https://sites.google.com/view/osk05/osk/d
-https://gulf.moneroocean.stream:10128
 ```
 __ipport__:
 
