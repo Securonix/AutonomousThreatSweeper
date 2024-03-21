@@ -24,13 +24,9 @@ __url__:
 ```text
 http://redacted/jspui/ldr.sh
 http://redacted/jspui/cron
-http://92.60.39.76:9991/ldr.sh
-http://92.60.39.76:9991/cron
 https://sites.google.com/view/osk05/osk/e
 https://sites.google.com/view/osk05/osk/d
 https://gulf.moneroocean.stream:10128
-https://109.123.233.251:443
-http://109.123.233.251:443
 ```
 __ipport__:
 
