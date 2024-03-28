@@ -1,0 +1,25 @@
+
+## IOCs
+
+__ipaddress__:
+
+```text
+146.70.157.120
+```
+__hash__:
+
+```text
+c1ab783d60cf05636eb4f72d17c6cf1d
+2027a5acbfea586f2d814fb57a97dcfce6c9d85c2a18a0df40811006d74aa7e3
+39122a2bcf6c360271e8edb503bc2761
+203d60fe1ebbfafc835e082774ee56088273d9455fb12ac1de2c1be410cceeec
+df6b768247a9cdb5607819c79f02099d
+6e4a4d25c2e8f5bacc7e0f1c8b538b8ad61571266f271cfdfc14725b3be02613
+004101dc501b9de8965e6b45debd07b6
+316e01b962bf844c3483fce26ff3b2d188338034b1dbd41f15767b06c6e56041
+```
+__url__:
+
+```text
+http://syncscheduler.com/r3direct/redirector/proxy.php
+```
