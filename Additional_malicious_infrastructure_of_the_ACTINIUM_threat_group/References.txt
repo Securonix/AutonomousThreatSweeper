@@ -1,0 +1,1 @@
+https://www.embeeresearch.io/uncovering-apt-infrastructure-with-passive-dns-pivoting/
