@@ -1,0 +1,1 @@
+https://www.greynoise.io/blog/cve-2024-3273-d-link-nas-rce-exploited-in-the-wild
