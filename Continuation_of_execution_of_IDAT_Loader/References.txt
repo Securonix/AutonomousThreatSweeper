@@ -1,0 +1,1 @@
+https://www.rapid7.com/blog/post/2024/04/10/stories-from-the-soc-part-2-msix-installer-utilizes-telegram-bot-to-execute-idat-loader/
