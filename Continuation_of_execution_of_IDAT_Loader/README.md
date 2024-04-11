@@ -1,14 +1,6 @@
 
 ## IOCs
 
-__domain__:
-
-```text
-icanhazip.com
-kalpanastickerbindi.com
-roomplannerapp.cn.com
-read-holy-quran.group
-```
 __ipaddress__:
 
 ```text
@@ -25,7 +17,6 @@ b7469153dc92bf5de9bf2521d9550df21bc4574d0d0cfc919ff26d1071c000b2
 __url__:
 
 ```text
-https://pastebin.pl/view/raw/a137d133
-https://kalpanastickerbindi.com/1.jpg
-https://roomplannerapp.cn.com/
+read-holy-quran.group/ld/cr.tar.gpg
+kalpanastickerbindi.com/1.jpg	
 ```
