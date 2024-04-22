@@ -1,0 +1,1 @@
+https://www.securonix.com/blog/detecting-dll-sideloading-techniques-in-malware-attack-chains/
