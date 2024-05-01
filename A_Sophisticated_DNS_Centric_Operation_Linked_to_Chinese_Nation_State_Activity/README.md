@@ -30,10 +30,6 @@ tv.com
 gb.com
 tunk.org
 q29.org
-ni.com
-tt.com
-pr.com
-dec.com
 ybzz.kb.com
 xv9k.kb.com
 0h5w.kb.com
