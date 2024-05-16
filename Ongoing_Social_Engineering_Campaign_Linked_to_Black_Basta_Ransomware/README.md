@@ -45,3 +45,24 @@ upd9a.com
 upd9b.com
 upd9c.com
 ```
+
+## Updated IOCs (16th May 2024, Microsoft)
+
+__domain__:
+
+```text
+upd5.pro
+zziveastnews.com
+realsepnews.com
+```
+__hash__:
+
+```text
+71d50b74f81d27feefbc2bc0f631b0ed7fcdf88b1abbd6d104e66638993786f8
+0f9156f91c387e7781603ed716dcdc3f5342ece96e155115708b1662b0f9b4d0
+1ad05a4a849d7ed09e2efb38f5424523651baf3326b5f95e05f6726f564ccc30
+93058bd5fe5f046e298e1d3655274ae4c08f07a8b6876e61629ae4a0b510a2f7
+1cb1864314262e71de1565e198193877ef83e98823a7da81eb3d59894b5a4cfb
+```
+
+
