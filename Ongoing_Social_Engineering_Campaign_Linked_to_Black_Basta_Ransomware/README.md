@@ -33,3 +33,15 @@ c18e7709866f8b1a271a54407973152be1036ad3b57423101d7c3da98664d108
 a47718693dc12f061692212a354afba8ca61590d8c25511c50cfecf73534c750
 76f959205d0a0c40f3200e174db6bb030a1fde39b0a190b6188d9c10a0ca07c8
 ```
+
+## Updated IOCs (16th May, 2024)
+
+__domain__:
+
+```text
+upd9.com
+upd7b.com
+upd9a.com
+upd9b.com
+upd9c.com
+```
