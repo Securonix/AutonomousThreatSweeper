@@ -19,3 +19,9 @@ cb95c77750732c0a4dd29c1d4feb6f69
 31c73ad35b23e4d98ed974e604b85e00
 766b8294e401d9c457d53e45e15e26591b3c5c86315d81d9d17e5696cc0f13e1
 ```
+
+__URL__:
+
+```text
+https://gofile.io/
+```
