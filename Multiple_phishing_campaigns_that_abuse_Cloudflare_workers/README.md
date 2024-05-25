@@ -1,4 +1,3 @@
-![image](https://github.com/Securonix/AutonomousThreatSweeper/assets/105458101/7009bd4e-bd67-455b-bdb7-676ec67c2163)
 ## IOCs
 
 __url__:
