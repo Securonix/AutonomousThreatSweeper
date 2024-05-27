@@ -1,0 +1,16 @@
+
+## IOCs
+
+__domain__:
+
+```text
+api.nikkistealer.shop
+badgeshop.site
+```
+__hash__:
+
+```text
+b66ce85c6942855970fe939a31459e5b7489e6d2c4bbe0d9d89cb8a863082e1c
+865d5423ec49f96d005cb0b1561a966d8b66f3f2fec7f10a8738d97ffb711990
+8681456f3f5829f67a2d429b7095715b1b65a7be1aa5e90b9ec5945aa22a099b
+```
