@@ -1,0 +1,18 @@
+
+## IOCs
+
+__domain__:
+
+```text
+baqebei1.online
+cdnforfiles.xyz
+d1x9q8w2e4.xyz
+```
+__hash__:
+
+```text
+a467302da10ace0bf96963bcd6bdcd6a4e619e28cd477612988276dfee9f429e
+4d417cff26e83e096f6c161a10d6a72774b8bbc8948bf5b6d3156e6f17adac5f
+4a058f08157863034a6df89cddc13e81a561eb9ca0e955f4fe38f4ba7b4fa9f7
+44a45c396516a3f2705eaf9751a06d346fcae1864f5521356349ce85e78fd386
+```
