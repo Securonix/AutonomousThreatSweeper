@@ -1,0 +1,27 @@
+
+## IOCs
+
+__domain__:
+
+```text
+goudieelectric.shop
+thevegan8.shop
+```
+__hash__:
+
+```text
+815c1571356cf328a18e0b1f3779d52e5ba11e5e4aac2d216b79bb387963c2be
+6f4642a203541426d504608eed7927718207f29be2922a4c9aa7e022f22e0deb
+88c97af92688d03601e4687b290d4d7f9f29492612e29f714f26a9278c6eda5b
+9649d58a220ed2b4474a37d6eac5f055e696769f87baf58b1d3d0b5da69cbce5
+af8104e567c6d614547acb36322ad2ed6469537cd1d78ae1be65fbde1d578abc
+de1bceb00c23e468f4f49a79ec69ec8ad3ed622a3ffc08f84c0481ad0f6f592b
+d90f6e12a917ba42f7604362fafc4e74ed3ce3ffca41ed5d3456de28b2d144bf
+08fa6aaf064470dbfac7894469457b2d78541adccba3f1bb278dd4c3f936131a
+```
+__url__:
+
+```text
+https://goudieelectric.shop/cms/svg/6364.2809640e.chunk.svg
+https://thevegan8.shop/first-gen-network/micro-grants.svg
+```
