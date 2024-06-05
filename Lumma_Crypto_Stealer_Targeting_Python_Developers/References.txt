@@ -1,0 +1,1 @@
+https://www.sonatype.com/blog/crytic-compilers-typosquats-known-crypto-library-drops-windows-trojan
