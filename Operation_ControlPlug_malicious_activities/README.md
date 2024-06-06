@@ -1,0 +1,23 @@
+
+## IOCs
+
+__domain__:
+
+```text
+versaillesinfo.com
+lifeyomi.com
+profilepimpz.com
+lebohdc.com
+shreyaninfotech.com
+buyinginfo.org
+gulfesolutions.com
+```
+__hash__:
+
+```text
+1cbf860e99dcd2594a9de3c616ee86c894d85145bc42e55f4fed3a31ef7c2292
+54549745868b27f5e533a99b3c10f29bc5504d01bd0792568f2ad1569625b1fd
+f0aa5a27ea01362dce9ced3685961d599e1c9203eef171b76c855a3db41f1ec6
+8c9e1f17e82369d857e5bf3c41f0609b1e75fd5a4080634bc8ae7291ebe2186c
+e81982e40ee5aaed85817343464d621179a311855ca7bcc514d70f47ed5a2c67
+```
