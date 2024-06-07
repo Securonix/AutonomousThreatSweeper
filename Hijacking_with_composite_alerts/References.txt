@@ -1,0 +1,1 @@
+https://www.lacework.com/blog/detecting-ai-resource-hijacking-with-composite-alerts
