@@ -26,17 +26,17 @@ fe721743a87c2f2767c031ccac337c1fb1ae5e92384738dd90c65d3b1617a341
 __url__:
 
 ```text
-hxxp://mega.vlvlvlvl.site/ vanban_8647.pdf_update.hta
-hxxp://mega.vlvlvlvl.site/hp.exe
-hxxp://mega.vlvlvlvl.site/hpcustpartui.dll
-hxxp://mega.vlvlvlvl.site/vanban_8647.pdf.ps1
-hxxp://payment.tripadviso.online/tempdata.dat
-hxxp://vibm.vn/init.txt
-hxxp://megacybernews.com/newrun.ps1
-hxxp://megacybernews.com/getdata.ps1
-hxxp://megacybernews.com/stage2.2.ps1
-hxxp://megacybernews.com/checkin.php
-hxxp://megacybernews.com/book.dll
-hxxp://megacybernews.com/unikey.exe
-hxxp://megacybernews.com/wwlib.dll
+http://mega.vlvlvlvl.site/vanban_8647.pdf_update.hta
+http://mega.vlvlvlvl.site/hp.exe
+http://mega.vlvlvlvl.site/hpcustpartui.dll
+http://mega.vlvlvlvl.site/vanban_8647.pdf.ps1
+http://payment.tripadviso.online/tempdata.dat
+http://vibm.vn/init.txt
+http://megacybernews.com/newrun.ps1
+http://megacybernews.com/getdata.ps1
+http://megacybernews.com/stage2.2.ps1
+http://megacybernews.com/checkin.php
+http://megacybernews.com/book.dll
+http://megacybernews.com/unikey.exe
+http://megacybernews.com/wwlib.dll
 ```
