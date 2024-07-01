@@ -63,12 +63,12 @@ __url__:
 ```text
 http://sinmaxinter.top:7001/services.zip
 http://sinmaxinter.top:7001/c3-server25.zip
-http://14.19.214 .36:6666/pp.exe
+http://14.19.214.36:6666/pp.exe
 http://14.19.214.36/aa.aspx
-http://14.19.214.36 /fscan.exe
+http://14.19.214.36/fscan.exe
 http://14.19.214.36/ew.exe
 http://14.19.214.36/11.exe
-http://14.19.214 .36/ringq.exe
+http://14.19.214.36/ringq.exe
 http://45.130.22.219/aspx.exe
 http://192.210.206.76/srdi.dat
 ```
