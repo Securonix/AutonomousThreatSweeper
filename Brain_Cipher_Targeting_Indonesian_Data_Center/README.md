@@ -1,0 +1,27 @@
+
+## IOCs
+
+__hash__:
+
+```text
+448f1796fe8de02194b21c0715e0a5f6
+935c0b39837319fda571aa800b67d997b79c3198
+eb82946fa0de261e92f8f60aa878c9fef9ebb34fdababa66995403b110118b12
+9cb96848386327410ca588b6cd5f6401
+968c4ae64dcb71c9eeffd812ef38a69d5548b3bb
+0ed5729655b3f09c29878e1cc10de55e0cbfae7ac344f574d471827c256cf086
+9c5698924d4d1881efaf88651a304cb3
+c60a0b99729eb6d95c2d9f8b76b9714411a3a751
+6e07da23603fbe5b26755df5b8fec19cadf1f7001b1558ea4f12e20271263417
+```
+__emailid__:
+
+```text
+brain.support@cyberfear.com
+```
+__url__:
+
+```text
+http://mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion/
+http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/
+```
