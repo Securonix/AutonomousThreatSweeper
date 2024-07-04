@@ -30,3 +30,11 @@ __ipport__:
 154.201.87.185:999
 164.155.205.99:999
 ```
+
+## Updated IOCs
+
+__url__:
+
+```text
+https://imgdev.s3.eu-west-3.amazonaws.com/dev/20210623/conost.exe
+```
