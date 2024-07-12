@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+5b1e8455291d99a1724327b9a7fc2616
+b69984cbf52b418673bd08279ca845d6
+5217b8552321556ea434474377cfcd02
+bfd6286bb39a0e24a2af28c63bd8e194
+75bfb7d5199bf0c4e62525099b33e14f
+f68ef9e40462c9760bf9c829edd9f4a9
+```
+__emailid__:
+
+```text
+jsonmakesam@gmail.com
+```
