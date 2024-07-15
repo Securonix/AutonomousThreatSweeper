@@ -1,0 +1,25 @@
+
+## IOCs
+
+__domain__:
+
+```text
+themicrosoftnow.com
+meeting.equitaligaiustizia.it
+```
+__ipaddress__:
+
+```text
+137.74.76.92
+23.218.225.10
+```
+__hash__:
+
+```text
+28808164363d221ceb9cc48f7d9dbff8ba3fc5c562f5bea9fa3176df5dd7a41e
+e024fe959022d2720c1c3303f811082651aef7ed85e49c3a3113fd74f229513c
+d6b348976b3c3ed880dc41bb693dc586f8d141fbc9400f5325481d0027172436
+c0f93f95f004d0afd4609d9521ea79a7380b8a37a8844990e85ad4eb3d72b50c
+caeca1933efcd9ff28ac81663a304ee17bbcb8091d3f9450a62c291fec973af5
+de19e0163af15585c305f845b90262aee3c2bdf037f9fc733d3f1b379d00edd0
+```
