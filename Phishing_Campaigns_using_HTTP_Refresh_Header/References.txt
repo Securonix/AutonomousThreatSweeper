@@ -1,0 +1,1 @@
+https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-07-15-IOCs-from-recent-phishing-campaign.txt
