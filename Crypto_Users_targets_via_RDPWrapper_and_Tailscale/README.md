@@ -1,0 +1,25 @@
+
+## IOCs
+
+__hash__:
+
+```text
+29c30a709d40929e2f75190c8dfe5bc6e2e57c3ad9f317604802604f36e23946
+fc94bba834b8f695322a9ffa4040676f8e88c2c9ca267c793f86c04b3f6ceac9
+07c9aaa69901be5990bbb084bf26f74de7094ab25c34968898edefae9ea15fc7
+1bb5fbb1521558440aea448422dcf911ca81ae8936011caa444eb1adb95743cb
+4076564c6a199e8809f9a2a0ff2e3ad96fa5fa9283b410a4731ea196c2783531
+61b3d8aae0803455432b65db40fef4e92749491bbd98c07eefec8aed636a4c48
+543991ca8d1c65113dff039b85ae3f9a87f503daec30f46929fd454bc57e5a91
+f7224264aef52f80f5df9068e2f0ebcd1961dd39aa87acb79b3b67b7e5c8f2d1
+f808ed40113b30deb348fba32f60236acf160c9bb95cdd42099a24ee2dc31076
+```
+__url__:
+
+```text
+https://cloudflareupdate.co/xmsi.txt
+http://microsoft-windows.cloud/terminator.sys
+http://microsoft-windows.cloud/main.exe
+https://cloudflareupdate.co/xbib.txt
+http://microsoft-windows.cloud/adr.exe
+```
