@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+rosetta.top
+rosetta.cn
+rzegzwre.top
+klmnnilmahlkcje.top
+ga1yo3wu78v48hh.top
+```
+__hash__:
+
+```text
+91e405e8a527023fb8696624e70498ae83660fe6757cef4871ce9bcc659264d3
+4716011ca9325480069bffeb2bbe0629fec6e5f69746f2e47f0a6894f2858c0b
+380bd5f097b8501618cf8b312d68e97b3220c31172f82973fce3084157caa15e
+c5bfe4ddcf576b432f4e6ccce10dd3d219ee5f54497e0cc903671783924414a6
+01a8aeb0b350a1325c86c69722affd410ff886881a405743e1adb23538eff119
+```
