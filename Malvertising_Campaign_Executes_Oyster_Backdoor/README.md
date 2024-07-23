@@ -26,3 +26,17 @@ __hash__:
 cfc2fe7236da1609b0db1b2981ca318bfd5fbbb65c945b5f26df26d9f948cbb4
 82b246d8e6ffba1abaffbd386470c45cef8383ad19394c7c0622c9e62128cb94
 ```
+
+## Updated IOCs
+
+__domain__:
+
+```text
+supfoundrysettlers.us
+wherehomebe.com
+retdirectyourman.eu
+codeforprofessionalusers.com
+postmastersoriginals.com
+firstcountryours.eu
+dotnetisforchildren.com
+```
