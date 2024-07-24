@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/153dea72-1e8d-4e03-a91e-9c4bed3bec92)
 ## IOCs
 
 __hash__:
