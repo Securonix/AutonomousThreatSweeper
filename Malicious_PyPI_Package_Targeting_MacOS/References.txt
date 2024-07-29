@@ -1,0 +1,1 @@
+https://checkmarx.com/blog/malicious-python-package-targets-macos-developers-to-access-their-gcp-accounts/
