@@ -43,3 +43,19 @@ tkwyv5.top
 vwqreb.asia
 xgwqx.top
 ```
+
+## Updated IOCs
+
+__domain__:
+
+```text
+ticketsparis24.com
+2024olympics.shop
+shop-olympics.shop
+parissummerolympics2024.online
+olympics2024.cc
+olympicsparis.shop
+parkcityolympics2034.com
+2028riversidecountyolympics.info
+lakeperrisolympics2028.info
+```
