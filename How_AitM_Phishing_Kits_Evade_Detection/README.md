@@ -1,0 +1,22 @@
+
+## IOCs
+
+__domain__:
+
+```text
+226028cc.502f135e3e036e726fba22d4.workers.dev
+acevoorgukmembership.buzz
+alerteditorroyalsocietyorgnz.buzz
+andymarshallsgeniuslocidigestghostiomghostio.buzz
+blogresponseinsperitycom.buzz
+campaigneventbritecomnoreply.buzz
+charityexcellencer1technologytrustnewsorg.buzz
+clerkenwelldesignweekcomnoreply.buzz
+confirminfothetrainlinecomauto.buzz
+healthestatejournalcomnoreply.buzz
+mentalhealthdesignandbuildcomnoreply.buzz
+noreplynotificationswhoopcom.buzz
+stepexhibitionscomeventsupport.buzz
+theathletice1theathleticcom.buzz
+thekakahoonssubstackcom.buzz
+```
