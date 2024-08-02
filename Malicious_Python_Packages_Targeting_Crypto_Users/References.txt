@@ -1,0 +1,1 @@
+https://checkmarx.com/blog/stackexchange-abused-to-spread-malicious-python-package-that-drains-victims-crypto-wallets/
