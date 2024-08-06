@@ -1,0 +1,18 @@
+
+## IOCs
+
+__domain__:
+
+```text
+contgeraklf.com
+```
+__hash__:
+
+```text
+72dd2e81e09c96b4a1e350af0eb854f7
+cf001a6d188b96847b7835d0dafbfa91
+225341f69f153dcb90aea484f90149eaf7bb05c1ead55bde1cde2a568bed9848
+4472c62d3d9982c1330ed143c81ee3cfa59fe916915bb6f6fb69e7d68f525219
+da54cc19d79bdcb89f8e00c874c31bc54f3df71b
+9675c96faaab861aa95fb7c2a55249243a4a3d49
+```
