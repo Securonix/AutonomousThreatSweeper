@@ -1,0 +1,1 @@
+https://blog.checkpoint.com/security/enhancing-phishing-and-malware-detection-with-ssdeep-fuzzy-hashing/
