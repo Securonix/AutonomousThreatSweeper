@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+8406a1d7a33b3549dd44f551e5a68392f85b5ef9cf8f9f3db68bd7e02d1eaba7
+6f6a660ce89f6ea5bbe532921ddc4aa17bcd3f2524aa2461d4be265c9e7328b9
+484e5a871ad69d6b214a31a3b7f8cfced71ba7a07e62205a90515f350cc0f723
+207dd751868995754f8c1223c08f28633b47629f78faaf70a3b931459ee60714
+```
+__url__:
+
+```text
+http://urlty.co/bypco
+http://192.3.176.138/xampp/zoom/107.hta
+http://192.3.176.138/107/sahost.exe
+```
