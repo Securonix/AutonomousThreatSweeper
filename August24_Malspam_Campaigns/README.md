@@ -137,7 +137,6 @@ us2.smtp.mailhostbox.com
 us2.smtp.mailhostbox.com
 https://api.telegram.org/bot7356382775
 https://api.telegram.org/bot7303457820
-https://api.telegram.org/
 https://api.telegram.org/bot7356382775
 https://api.telegram.org/bot7303457820
 us2.smtp.mailhostbox.com
