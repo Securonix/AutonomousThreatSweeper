@@ -11,3 +11,19 @@ __hash__:
 c14517ff49f31e419f0b1a4463ba5ff083ae5a4b
 e04dbe0de745fc8026710034af6a00fc8dc38569440ce8ebebe74cd4dc0a6dc5
 ```
+
+## Updated IOCs (06/Sep/2024)
+
+__hash__:
+
+```text
+520e6676a4e53b73d9f8afab560767b9
+ba67434fbffc3b7b47220db52c14976062d30ea9
+5508e6e9f62af269f48301f4149cabfb7d421b39d94559ae88a96dc88ddf7501
+```
+__ipaddress__:
+
+```text
+103.252.123.135
+```
+
