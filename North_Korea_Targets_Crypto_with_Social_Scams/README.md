@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+taurihostmetrics.com
+wiresapplication.com
+juchesoviet48.com
+```
+__hash__:
+
+```text
+51a88646f9770e09b3505bd5cbadc587abb952ba
+5ec7497107478f08ca5018bf659f9340880c059c
+a246db8fe1a4f385ed5e2eed5087a60fd2be6b5a
+254aad39a432ff0df2ce35cc4ff3578afe1dc1df
+f669fba857401406db6b35958d5f57d9d8030f56
+f11ca6e92a3f2af3590021d1475a740e6246347e
+c401c8aafc28317828f6b648a3abf6e01d05efae
+```
