@@ -1,0 +1,25 @@
+
+## IOCs
+
+__domain__:
+
+```text
+iceandfire.xyz
+```
+__hash__:
+
+```text
+d7b278d20f47203da07c33f646844e74cb690ed802f2ba27a74e216368df7db9
+ba262c587f1f5df7c2ab763434ef80785c5b51cac861774bf66d579368b56e31
+fe503708d7969e65e9437b56b6559bc9b6bb7f46f3be5022db9406579592670d
+f6d171e79e2fb38b3919011835c8117a1c56788bcf634e69ae67a5e255fb9d58
+14bbe421abe496531f4c63b16881eee23fb2c92b2938335dca1668206882201a
+c3805b8b37eb1ba34057cd6c882dc9bedcebc01ec90a6d4be8d0f6fc82859ecb
+c6398b5ca98e0da75c7d1ec937507640037ce3f3c66e074c50a680395ecf5eae
+```
+__url__:
+
+```text
+https://shianchi.scapematic.info/jhgfd/jkhxvcf
+https://jihang.scapematic.info/eqhgrh/uybvjxosg
+```
