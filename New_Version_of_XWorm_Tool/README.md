@@ -1,0 +1,27 @@
+
+## IOCs
+
+__domain__:
+
+```text
+ziadonfire.work.gd
+```
+__hash__:
+
+```text
+92baa79ed1e8ccca07666968715b1d517c9e7340505112b41aadef1e7e433a1c
+2c6c4cd045537e2586eab73072d790af362e37e6d4112b1d01f15574491296b8
+182199ae3921c4458c39003a22deb07ea40ec3c4e67d8b3efab42698aab634ec
+400ca77dc7a2b32428a47355c5388ab547ab7c696386c71f3d4abb2869ba66be
+f1bc5fa7bfa063b32dea6371cc309821201d6122e19b793776f128c42b93957b
+```
+__url__:
+
+```text
+https://paste.ee/r/mkjrl/0
+```
+__ipport__:
+
+```text
+89.116.164.56:7000
+```
