@@ -1,0 +1,1 @@
+https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-10-11-IOCs-for-advanced-phishing-activity.txt
