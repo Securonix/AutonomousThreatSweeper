@@ -1,0 +1,1 @@
+https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-10-14-IOCs-for-fake-shopping-scam-sites.txt
