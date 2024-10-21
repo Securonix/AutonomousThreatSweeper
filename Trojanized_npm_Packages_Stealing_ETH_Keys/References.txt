@@ -1,0 +1,1 @@
+https://blog.phylum.io/trojanized-ethers-forks-on-npm-attempting-to-steal-ethereum-private-keys/
