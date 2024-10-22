@@ -62,3 +62,20 @@ http://lynxchatfw4rgsclp4567i4llkqjr2kltaumwwobxdik3qa2oorrknad.onion/login
 http://lynxchatly4zludmhmi75jrwhycnoqvkxb4prohxmyzf4euf5gjxroad.onion/login
 http://lynxchatohmppv6au67lloc2vs6chy7nya7dsu2hhs55mcjxp2joglad.onion/login
 ```
+
+## updated IOC
+
+__hash__:
+
+```text
+ecbfea3e7869166dd418f15387bc33ce46f2c72168f571071916b5054d7f6e49
+```
+__url__:
+
+```text
+http://lynxblog.net
+```
+
+
+
+
