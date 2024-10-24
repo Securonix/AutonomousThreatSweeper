@@ -1,0 +1,19 @@
+
+## IOCs
+
+__domain__:
+
+```text
+detankzone.com
+ccwaterfall.com
+```
+__hash__:
+
+```text
+b2dc7aec2c6d2ffa28219ac288e4750c
+e5da4ab6366c5690dfd1bb386c7fe0c78f6ed54f
+7353ab9670133468081305bd442f7691cf2f2c1136f09d9508400546c417833a
+8312e556c4eec999204368d69ba91bf4
+7f28ad5ee9966410b15ca85b7facb70088a17c5f
+59a37d7d2bf4cffe31407edd286a811d9600b68fe757829e30da4394ab65a4cc
+```
