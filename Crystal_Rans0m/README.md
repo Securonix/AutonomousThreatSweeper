@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+bed70b08cf8b00b4e6b04acd348b5e0343d207f3083e1c58261679706bd10318
+15219aa22db99f064c47c224a205cdd3ed438dabd2d2593242ed2882e6458311
+b027fe1e1e97d980de593cfd265d004b310c7655d3ee27ea3f10beaf70285e22
+4970bd280da663f483f927f3a6c47833ebcbfe2b640ee66a309b41c7ed084375
+693fb42336167d5432a807fcb9afcac7002113fc37b05a2d3aa61c1356256c52
+```
+__url__:
+
+```text
+https://discord.com/api/webhooks/1270187531933057115/otyzl7ahm9a-o9rxqmrvxz_ykoc_qc8mhvd3vpfp0axhhcbkcw_fokoosq2siaplipqw
+https://discord.com/api/webhooks/1144625488816525372/uybmr5tvjy1faqe3fp5t7jbdawtqcy5mmrzsjavfml9zu2qqwbq-4odvqtnkwwcbpw3d
+```
