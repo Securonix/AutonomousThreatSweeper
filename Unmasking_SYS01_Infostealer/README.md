@@ -1,7 +1,7 @@
 
 ## IOCs
 
-__domain__:
+__url__:
 
 ```text
 https://krouki.com
@@ -14,7 +14,6 @@ https://wegoodmedia.com
 https://eviralmedia.com
 https://gerymedia.com
 https://wakomedia.com
-
 https://musament.top
 https://enorgutic.top
 https://untratem.top
