@@ -1,7 +1,7 @@
 
 ## IOCs
 
-__domain__:
+__url__:
 
 ```text
 https://github.com/yaniraenrica/testing/raw/main/resolvd.zip
