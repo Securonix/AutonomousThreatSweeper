@@ -1,0 +1,18 @@
+
+## IOCs
+
+__hash__:
+
+```text
+df67a118cacf68ffe5610e8acddbe38db9fb702b473c941f4ea0320943ef32ba
+0801b24d2708b3f6195c8156d3661c027d678f5be064906db4fefe74e1a74b17
+3f4445eaf22cf236b5aeff5a5c24bf6dbc4c25dc926239b8732b351b09698653
+```
+__url__:
+
+```text
+http://193.233.201.21:3001
+http://193.233.201.21:3001/node-win.exe
+http://193.233.201.21:3001/node-linux
+http://193.233.201.21:3001/node-macos
+```
