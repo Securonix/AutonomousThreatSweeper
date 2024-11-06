@@ -23,5 +23,5 @@ https://rkbaienfurt.de/xmlrpc.php
 https://beezzly.com/xmlrpc.php
 https://playyourbeat.com/xmlrpc.php
 https://wowart.vn/xmlrpc.php
-https://ledabel.be/en/are-bengal-cats-legal-in-australia-understanding-the-laws-and-regulations/,
+https://ledabel.be/en/are-bengal-cats-legal-in-australia-understanding-the-laws-and-regulations/
 ```
