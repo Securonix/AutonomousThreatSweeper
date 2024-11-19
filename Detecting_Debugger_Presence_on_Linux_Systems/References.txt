@@ -1,0 +1,1 @@
+https://isc.sans.edu/diary/Detecting+the+Presence+of+a+Debugger+in+Linux/31450/
