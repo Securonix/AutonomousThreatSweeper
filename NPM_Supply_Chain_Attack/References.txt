@@ -1,0 +1,1 @@
+https://checkmarx.com/blog/npm-supply-chain-attack-combines-crypto-mining-and-data-theft/
