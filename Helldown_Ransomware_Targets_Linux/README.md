@@ -16,3 +16,11 @@ cb48e4298b216ae532cfd3c89c8f2cbd1e32bb402866d2c81682c6671aa4f8ea
 9ab19741ac36e198fb2fd912620bf320aa7fdeeeb8d4a9e956f3eb3d2092c92c
 ccd78d3eba6c53959835c6407d81262d3094e8d06bf2712fefa4b04baadd4bfe
 ```
+
+## Updated IOCs
+
+__hash__:
+
+```text
+0bfe25de8c46834e9a7c216f99057d855e272eafafdfef98a6012cecbbdcfabf
+```
