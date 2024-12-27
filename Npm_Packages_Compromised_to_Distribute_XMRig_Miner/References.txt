@@ -1,0 +1,1 @@
+https://www.sonatype.com/blog/npm-packages-rspack-vant-compromised-blocked-by-sonatype
