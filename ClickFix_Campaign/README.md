@@ -1,0 +1,15 @@
+
+## IOCs
+
+__domain__:
+
+```text
+severdops.ddns.net
+```
+__hash__:
+
+```text
+2853a61188b4446be57543858adcc704e8534326d4d84ac44a60743b1a44cbfe
+92a8cc4e385f170db300de8d423686eeeec72a32475a9356d967bee9e3453138
+94379fa0a97cc2ecd8d5514d0b46c65b0d46ff9bb8d5a4a29cf55a473da550d5
+```
