@@ -1,19 +1,14 @@
 
 ## IOCs
 
-__domain__:
+__url__:
 
 ```text
-upd5.pro
-vector123.xyz
-```
-__ipaddress__:
+https://vector123.xyz/PixelSignal.dll
+https://upd5.pro
+https://146.19.128.138/pack.dat
+https://80.66.89.100/pack.dat
 
-```text
-146.19.128.138
-80.66.89.100
-80.66.89.100
-146.19.128.138
 ```
 __hash__:
 
