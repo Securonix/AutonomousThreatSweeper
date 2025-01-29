@@ -1,0 +1,25 @@
+
+## IOCs
+
+__domain__:
+
+```text
+kzh83hfm0eovz7acsnioz.duckdns.org
+```
+__hash__:
+
+```text
+e2909ce9f9acf027481cba55c71f8253
+ddc37a23988a9c86cd4bb0f85a667396
+582ca9b2b5b8f8e5f79185f60a6893ec782527e464f037360678fc61e513dcd2
+68eacfa360f5936cc121ea64cbafa6d9
+d2fbc247f3f5e8bec0f7a282b6ea1a0d650cb86de337a7bd8a4be292f9a7e959
+63d7ff161cf9fb13c69e73d95b5f6d32
+06c1d2ea250d4c6453675091b1064154068c69ed6f01de7d00f5851d7ac66ba1
+da32159b27065337a699264da4778b7c99f8fbb4f00617061b9a5b5397bd5973
+```
+__url__:
+
+```text
+https://upload.nolog.cz/download/a54ffb1804fb1044/#cl79fplbduu45qndy_is6a
+```
