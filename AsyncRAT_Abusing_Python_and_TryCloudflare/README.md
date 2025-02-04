@@ -1,0 +1,26 @@
+
+## IOCs
+
+__hash__:
+
+```text
+55724b766dd1fe8bf9dd4cb7094b83b88d57d945
+4483561a49791a7cd684258e9f1623fe7dfba772
+0aa1b8fba8d7bd19a0064edfdf86c027da253644
+659ecdeb19b8e49be61fe41e8796d1215272b16e
+cd61de9e4003ba568ae76f064935addb106a6d6d
+0221ec304905a758d9b47d6a631622b7dcf3c1f5
+4747ee49bdf31351c025049d8c3b7fef831be77c
+8ef36a4865f4a73a4e8fe4b90e5eff4a7feb3647
+ae1dece09c2b627d8d3fe1c1f758db9ca6d5820c
+8dc9071a46a019547c8355a155d9c3c3b154e7a2
+098c369c904e8c328df40062190aff009e02d369
+ff6186eef1c17a2668c6013d38fecead4f507556
+```
+__url__:
+
+```text
+https://inventory-card-thumbzilla-ip.trycloudflare.com/de/
+https://mercy-synopsis-notify-motels.trycloudflare.com/ma.zip
+http://sufficiently-points-est-minimize.trycloudflare.com/ma.zip
+```
