@@ -1,0 +1,23 @@
+
+## IOCs
+
+__domain__:
+
+```text
+deepseekcaptcha.top
+```
+__hash__:
+
+```text
+cd7bd1c6b651a700f059bc89168d6950292d77fb3703da401fdc83acae911aae
+3defc89a9190f7ba4474aaa8fb3f5a738a721dc1999ac6f71d438cdeadb20e7
+cedb81c4665ea6e96d6bce5b08546fa776d37f2ed10fee4eb65d216ba90bd839
+a3a5303a15cf016427104042c4968b9483abbb062af46fc138d4401078f2fe84
+f2fbe8f49cf070c8672c64a75a732b4545f5055e96570e873866ef534ffbe8ec
+b112123f490a0505d0c2722abc65d1285865c519ec9587fe72e988c38fc1fcbc
+```
+__url__:
+
+```text
+https://steamcommunity.com/profiles/76561199824159981
+```
