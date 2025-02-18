@@ -1,0 +1,1 @@
+https://www.netskope.com/blog/telegram-abused-as-c2-channel-for-new-golang-backdoor
