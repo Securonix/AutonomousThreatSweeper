@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+askforupdate.org
+rednosehorse.com
+blackshelter.org
+deski.fastcloudcdn.com
+slowlysmiling.fastcloudcdn.com
+```
+__hash__:
+
+```text
+e1202c017c76e06bfa201ad6eb824409c2529e887bdaf128fc364bdbc9e1e214
+274efb6bb2f95deb7c7f8192919bf690d69c3f3a441c81fe2a24284d5f274973
+ca172f8d36326fc0b6adef9ea98784fd216c319754c5fc47aa91fce336c7d79a
+fbccc8952710a8a50655f4fe3a880c8373411b7ec40e54aabd7eaff3f1d0137b
+d34c95c0563c8a944a03ee1448f0084dfb94661c24e51c131541922ebd1a2c75
+```
