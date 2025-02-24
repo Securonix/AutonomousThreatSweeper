@@ -1,0 +1,19 @@
+
+## IOCs
+
+__hash__:
+
+```text
+5abf73e0b8d2298167801995077fa414d2e2be2051aff75ad13bfd34d3ed6590
+f76e582e0b43caad6db6665a17341d94c709ca09dd3e36fc3e588e4566d81502
+04fc833b59af93308029d3e87c85e327a1e480508bc78b6a4e46c0cbd65ea8dc
+26e91d3218cbd4f45da9f293f9647a1dfbf9d3d03aad5bd9ce85423d6e75450c
+44444b5a4af7742b779a70af5ac7e443cd077ed924924e86f9de2ff932e43e74
+```
+__url__:
+
+```text
+https://0x0.st/8zov.txt
+https://tempsend.com/tamnd/ac7f7b/1739357320/output.bat
+https://0x0.st/8kuv.ps1
+```
