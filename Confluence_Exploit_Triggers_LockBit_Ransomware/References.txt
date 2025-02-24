@@ -1,0 +1,1 @@
+https://thedfirreport.com/2025/02/24/confluence-exploit-leads-to-lockbit-ransomware/
