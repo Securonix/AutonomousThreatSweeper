@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+wiod.mynetav.net
+```
+__hash__:
+
+```text
+ce5045a20bcbc0e8386485dcf66ca58d02b026c47de649720d13cad71d564e90
+661f88afb7fbe1c6b83596f4e42a91fd3e8fc0a2e7fb9632536b9a6006f5f898
+b0784c92bbb372062bc1d805316913b50b0f8cfb8696e33af26b61b8abc307ad
+4e0b608982cc37dc08d3f099c1783290fcc959421cb0d7703ca1210990d02c93
+```
+__ipport__:
+
+```text
+46.17.43.99:443
+```
