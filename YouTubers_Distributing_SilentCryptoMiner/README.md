@@ -1,0 +1,24 @@
+
+## IOCs
+
+__domain__:
+
+```text
+gitrok.com
+swapme.fun
+canvas.pet
+9x9o.com
+```
+__hash__:
+
+```text
+574ed9859fcdcc060e912cb2a8d1142c
+91b7cfd1f9f08c24e17d730233b80d5f
+9808b8430667f896bcc0cb132057a683
+0c380d648c0c4b65ff66269e331a0f00
+1f52ec40d3120014bb9c6858e3ba907f
+a14794984c8f8ab03b21890ecd7b89cb
+a2a9eeb3113a3e6958836e8226a8f78f
+5c5c617b53f388176173768ae19952e8
+ac5cb1c0be04e68c7aee9a4348b37195
+```
