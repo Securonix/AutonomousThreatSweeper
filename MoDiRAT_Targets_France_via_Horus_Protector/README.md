@@ -1,0 +1,22 @@
+
+## IOCs
+
+__domain__:
+
+```text
+myhousecam.ddns.net
+```
+__hash__:
+
+```text
+78b96ddeba978f337da5d1f5b2f3602eca6a97ecd6ed1d80291af38f77e092d3
+e68b1e05730fad343643f6858aaa324b2a435a230d5191c1e95d181367781f02
+b3aeb6e585c72e618a6c4d7e28509ed3ff368a5f66093917410a3c95e4767652
+352011f27fdcc8e71a7e0171e7b88509b9848254404f8d91ce3c9d790c335d8a
+```
+__url__:
+
+```text
+http://144.91.92.251/01032025/
+https://144.91.92.251/modi.txt
+```
