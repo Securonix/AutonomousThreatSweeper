@@ -1,0 +1,1 @@
+https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users
