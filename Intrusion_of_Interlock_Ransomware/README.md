@@ -1,7 +1,7 @@
 
 ## IOCs
 
-__hash__:
+__Domain__:
 
 ```text
 zoloft-indianapolis-riders-convinced.trycloudflare.com
