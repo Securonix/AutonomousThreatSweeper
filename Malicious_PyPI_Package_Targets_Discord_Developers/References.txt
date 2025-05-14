@@ -1,0 +1,1 @@
+https://socket.dev/blog/malicious-pypi-package-targets-discord-developers-with-RAT
