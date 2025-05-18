@@ -1,0 +1,23 @@
+
+## IOCs
+
+__domain__:
+
+```text
+lastfilterfile.info
+starmanblind.ddns.net
+cloudtransferfile.info
+```
+__hash__:
+
+```text
+193f5ac21d6b562507f0973c6b02614d
+a52c8eacf3dbdcf0f49268a27a44636b
+d04be225aae86085a44a387a1c63a0ff
+a8d21e3ed6cd650e4ee7cdf4b207f55e
+62fbf0622586324f7177da466d036b8f
+92d497053600374b10003aa40ae8e5d8
+a2522c16248868ad666c746baf428e41
+7933d42357c48359d5656b5d14d41c1f
+6a8664cb87c1804c5330790071697132
+```
