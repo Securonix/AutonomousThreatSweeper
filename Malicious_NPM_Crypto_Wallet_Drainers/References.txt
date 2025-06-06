@@ -1,0 +1,1 @@
+https://socket.dev/blog/malicious-npm-packages-target-bsc-and-ethereum
