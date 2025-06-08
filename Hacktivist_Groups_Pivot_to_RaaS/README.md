@@ -1,0 +1,27 @@
+
+## IOCs
+
+__domain__:
+
+```text
+funksec53xh7j5t6ysgwnaidj5vkh3aqajanplix533kwxdz3qrwugid.onion
+funksec7vgdojepkipvhfpul3bvsxzyxn66ogp7q4pptvujxtpyjttad.onion
+funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion
+```
+__hash__:
+
+```text
+8b758ccdfbfa5ff3a0b67b2063c2397531cf0f7b3d278298da76528f443779e9
+c9f71fc4f385a4469438ef053e208065431b123e676c17b65d84b6c69ef6748a
+a1b468e9550f9960c5e60f7c52ca3c058de19d42eafa760b9d5282eb24b7c55f
+3ecf05857d65f7bc58b547d023bde7cc521a82712b947c04ddf9d7d1645c0ce0
+8cee3ec87a5728be17f838f526d7ef3a842ce8956fe101ed247a5eb1494c579d
+```
+__url__:
+
+```text
+http://funksec.top
+http://funk4ph7igelwpgadmus4n4moyhh22cib723hllneen7g2qkklml4sqd.onion
+http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion
+http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion
+```
