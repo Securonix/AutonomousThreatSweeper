@@ -1,0 +1,25 @@
+
+## IOCs
+
+__domain__:
+
+```text
+word.msapp.workers.dev
+cloud.msapp.workers.dev
+term-restore-satisfied-hence.trycloudflare.com
+ways-sms-pmc-shareholders.trycloudflare.com
+resource.infinityfreeapp.com
+pubs.infinityfreeapp.com
+```
+__hash__:
+
+```text
+469b534bec827be03c0823e72e7b4da0b84f53199040705da203986ef154406a
+3b88b3efbdc86383ee9738c92026b8931ce1c13cd75cd1cda2fa302791c2c4fb
+50124174a4ac0d65bf8b6fd66f538829d1589edc73aa7cf36502e57aa5513360
+151257e9dfda476cdafd9983266ad3255104d72a66f9265caa8417a5fe1df5d7
+876fb1b0275a653c4210aaf01c2698ec
+65da1a9026cf171a5a7779bc5ee45fb1
+1ca609e207edb211c8b9566ef35043b6
+2ec4eeeabb8f6c2970dcbffdcdbd60e3
+```
