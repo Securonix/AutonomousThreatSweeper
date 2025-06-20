@@ -1,0 +1,23 @@
+
+## IOCs
+
+__domain__:
+
+```text
+now-refer-several-tariff.trycloudflare.com
+wizard-individual-intervals-franklin.trycloudflare.com
+lender-router-exclusively-fractio.trycloudflare.com
+```
+__hash__:
+
+```text
+b16d2800811e7a72c90bea50640330966cdb931a03f76338478da682ea6fded7
+3d3a6d7905ca1387f3ec7a637cb672d6b6efa0f8efdbf819f756a8e5f92bc960
+7e4f335241d4ded5ea19bf5c92f8e70ea76de7167cd3691752b9386ff094848f
+4d2fccad69bb02305948814f1aa6ef76c85423eb780ec5f3751b7ffbf8b74ca3
+54fa1e565ce615f5a39b9ee502bd8b23f90e6d803e3da108ff150d8434ec5cd9
+4ed08dcad1cf63f4ab46176f60ed17f326046a02dcb72448c3134b25191e8cd0
+a836a92e0618a2d2654a98551db3908f4a4531c7c6ef8f4bd41badcfa9e05096
+66938c34825d1e32d5f3daf8911311f05dd9bad07278268ae6b783dcdc8130a9
+821f0956d3f52819c90035041c0f4c0ec644924af46222c5913e05de1c385b04
+```
