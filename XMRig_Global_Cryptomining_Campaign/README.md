@@ -1,0 +1,15 @@
+
+## IOCs
+
+__domain__:
+
+```text
+notif.su
+```
+__hash__:
+
+```text
+a57688c151a42d8a2b78f72d23ae7e6c2d6a458edd50f0a4649cc630614763b0
+3acf8d410f30186a800d5e8c3b0b061a6faf7c0939b129d230de42e9034ce6c3
+f4386aaa87c922d5d7db28d808ad6471b1c4deb95d82a9e6cfe8421196c5610b
+```
