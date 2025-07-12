@@ -1,0 +1,1 @@
+https://www.reversinglabs.com/blog/malicious-pull-request-infects-vscode-extension
