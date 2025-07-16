@@ -1,0 +1,19 @@
+
+## IOCs
+
+__hash__:
+
+```text
+b5e811d7c104ce8dd2509f809a80932540a21ada0ee9e22ac61d080dc0bd237d
+232f86e26ced211630957baffcd36dd3bcd6a786f3d307127e1ea9a8b31c199f
+28f3de066878cb710fe5d44f7e11f65f25328beff953e00587ffeb5ac4b2faa8
+1f6640102f6472523830d69630def669dc3433bbb1c0e6183458bd792d420f8e
+232f86e26ced211630957baffcd36dd3bcd6a786f3d307127e1ea9a8b31c199f
+a8c28bd6f0f1fe6a9b880400853fc86e46d87b69565ef15d8ab757979cd2cc73
+```
+__url__:
+
+```text
+https://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion
+https://gdbkvfe6g3whrzkdlbytksygk45zwgmnzh5i2xmqyo3mrpipysjagqyd.onion
+```
