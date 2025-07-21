@@ -4,7 +4,6 @@
 __domain__:
 
 ```text
-boroda70@meta.ua
 stayathomeclasses.com
 ```
 __hash__:
@@ -27,4 +26,9 @@ __url__:
 
 ```text
 https://stayathomeclasses.com/slpw/up.php
+```
+__emailid__:
+
+```text
+boroda70@meta.u
 ```
