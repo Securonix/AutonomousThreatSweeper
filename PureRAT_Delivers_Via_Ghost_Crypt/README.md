@@ -1,0 +1,16 @@
+
+## IOCs
+
+__domain__:
+
+```text
+fax-greenry.myhome-server.de
+```
+__hash__:
+
+```text
+69a40bd2f667845ab95ad8438dae390f2e8b9680f4d30cb20e920c45cda565f9
+f3d98823fb6cdc226414bedc49b94e86060fcc511cc50867d63f7c989fe54aed
+1ac0767e5a22839ae581ea31fcfcd693f1d35092a33576cb5269a2f7b415d964
+cbbda2edde38162e49f7578512c015640392342a26ea0e5cd90705bb66a7ba81
+```
