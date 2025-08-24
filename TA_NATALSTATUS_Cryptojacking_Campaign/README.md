@@ -1,0 +1,22 @@
+
+## IOCs
+
+__domain__:
+
+```text
+natalstatus.org
+a.natalstatus.org
+avspbx.com
+pyats.top
+en2an.top
+dev.fugglesoft.me
+```
+__hash__:
+
+```text
+58eeceb920a460a5f389acb23e5f8d86c3391788f9c9f5a4b396e3f4f84782c3
+04ae5583ebb88d197f203da92cbc17e5deedd2dc2297b30713ffe697102766b8
+254d0672515295890354a58cb6f83758e8eceee9bb5b7c5be08813496e59f24a
+f0ff790b0eb3479ab90889223b88826be95051a7170285774b4a06b6d34d0771
+cc6e21845299c549a439321ff00033caa56e6c28c039b3316b808698f14344c7
+```
