@@ -1,0 +1,23 @@
+
+## IOCs
+
+__hash__:
+
+```text
+dbaf469684023c0d0e1218fe2152ed19
+d26fe01c1661e7c678a8ddafd5584b46
+298e2c506a2986d8c4fac16fa48c58b2
+740a725f04a5603d2b325610a7cc3678c024903c
+cfe31dea94f0f58dfd145296339d734f22d23eb7
+88b17217d7a61e993f54df2be5c36b0f73e77b6d
+eda13877d525b8092335096bad7c06994312d5374b813b940627d1734f72be79
+d66294d8ecb6997da6aaefae800bcc1e2c45d19ec8934246f1efc98ea63795f5
+26e5a286fd018b1537393dae1fa986b259037affe4fdc523bc9bfb2dfa7be240
+```
+__url__:
+
+```text
+https://tsmtpdiamond.com/tracking/qar9zwn2bgd3zmt1bqv5zwt5bgt0zpm5qzs4qar9zqbjit
+https://www.carrozzeriatrieste.net/patch_aruba.txt
+https://www.carrozzeriatrieste.net/patch_aruba.zip
+```
