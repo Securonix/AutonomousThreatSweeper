@@ -1,0 +1,22 @@
+
+## IOCs
+
+__hash__:
+
+```text
+65c42a7ea18162a92ee982eded91653a5358a7129c7672715ce8ddb6027ec124
+3299866538aff40ca85276f87dd0cefe4eafe167bd64732d67b06af4f3349916
+e787f64af048b9cb8a153a0759555785c8fd3ee1e8efbca312a29f2acb1e4011
+cc4db3d8049043fa62326d0b3341960f9a0cf9b54c2fbbdffdbd8761d99add79
+d1626c35ff69e7e5bde5eea9f9a242713421e59197f4b6d77b914ed46976b933
+c8744b10180ed59bf96cf79d7559249e9dcf0f90
+eca96bd74fb6b22848751e254b6dc9b8e2721f96
+```
+__url__:
+
+```text
+https://mediareleaseupdates.com/adobeplugins.html
+https://mediareleaseupdates.com/style3.js
+https://mediareleaseupdates.com/adobeplugins.exe
+https://mediareleaseupdates.com/20250509.bmp
+```
