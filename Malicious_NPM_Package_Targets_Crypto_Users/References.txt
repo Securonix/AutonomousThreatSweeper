@@ -1,0 +1,1 @@
+https://socket.dev/blog/wallet-draining-npm-package-impersonates-nodemailer?utm_medium=feed
