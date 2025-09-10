@@ -1,0 +1,1 @@
+https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
