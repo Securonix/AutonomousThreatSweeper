@@ -1,0 +1,15 @@
+
+## IOCs
+
+__domain__:
+
+```text
+shadow.aurozacloud.xyz
+```
+__hash__:
+
+```text
+2462467e89b4a62619d0b2957b21876dc4871bd41b5d5fe230aa7ad107504c99
+1b552d19a3083572bc43371adfbc2b75eb6930a644696dedd600f9bd755042f6
+1f70c78c018175a3e4fa2b3822f1a3bd48a3b923d1fbdcea5446960caa8133e9c
+```
