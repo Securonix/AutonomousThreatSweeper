@@ -1,0 +1,1 @@
+https://socket.dev/blog/malicious-fezbox-npm-package-steals-browser-passwords-from-cookies-via-innovative-qr-code?utm_medium=feed
