@@ -1,0 +1,1 @@
+https://socket.dev/blog/two-malicious-rust-crates-impersonate-popular-logger-to-steal-wallet-keys?utm_medium=feed
