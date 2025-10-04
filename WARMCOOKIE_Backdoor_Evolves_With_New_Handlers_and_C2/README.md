@@ -1,0 +1,19 @@
+
+## IOCs
+
+__domain__:
+
+```text
+storsvc-win.com
+```
+__hash__:
+
+```text
+c7bb97341d2f0b2a8cd327e688acb65eaefc1e01c61faaeba2bc1e4e5f0e6f6e
+9d143e0be6e08534bb84f6c478b95be26867bef2985b1fe55f45a378fc3ccf2b
+f4d2c9470b322af29b9188a3a590cbe85bacb9cc8fcd7c2e94d82271ded3f659
+5bca7f1942e07e8c12ecd9c802ecdb96570dfaaa1f44a6753ebb9ffda0604cb4
+b7aec5f73d2a6bbd8cd920edb4760e2edadc98c3a45bf4fa994d47ca9cbd02f6
+e0de5a2549749aca818b94472e827e697dac5796f45edd85bc0ff6ef298c5555
+169c30e06f12e33c12dc92b909b7b69ce77bcbfc2aca91c5c096dc0f1938fe76
+```
