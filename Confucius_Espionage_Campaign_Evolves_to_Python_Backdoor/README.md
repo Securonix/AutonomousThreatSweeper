@@ -1,0 +1,27 @@
+
+## IOCs
+
+__domain__:
+
+```text
+marshmellowflowerscar.info
+greenxeonsr.info
+cornfieldblue.info
+hauntedfishtree.info
+petricgreen.info
+bloomwpp.info
+dropmicis.info
+martkartout.info
+```
+__hash__:
+
+```text
+c91917ff2cc3b843cf9f65e5798cd2e668a93e09802daa50e55a842ba9e505de
+5a0dd2451a1661d12ab1e589124ff8ecd2c2ad55c8f35445ba9cf5e3215f977e
+4206ab93ac9781c8367d8675292193625573c2aaacf8feeaddd5b0cc9136d2d1
+8603b9fa8a6886861571fd8400d96a705eb6258821c6ebc679476d1b92dcd09e
+24b06b5caad5b09729ccaffa5a43352afd2da2c29c3675b17cae975b7d2a1e62
+13ca36012dd66a7fa2f97d8a9577a7e71d8d41345ef65bf3d24ea5ebbb7c5ce1
+06b8f395fc6b4fda8d36482a4301a529c21c60c107cbe936e558aef9f56b84f6
+11391799ae242609304ef71b0efb571f11ac412488ba69d6efc54557447d022f
+```
