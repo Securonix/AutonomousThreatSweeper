@@ -1,0 +1,1 @@
+https://socket.dev/blog/malicious-nuget-packages-typosquat-nethereum-to-exfiltrate-wallet-keys?utm_medium=feed
