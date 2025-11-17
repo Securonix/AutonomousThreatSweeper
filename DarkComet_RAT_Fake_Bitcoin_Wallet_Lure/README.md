@@ -1,0 +1,15 @@
+
+## IOCs
+
+__domain__:
+
+```text
+kvejo991.ddns.net
+```
+__hash__:
+
+```text
+11bf1088d66bc3a63d16cc9334a05f214a25a47f39713400279e0823c97eb377
+5b5c276ea74e1086e4835221da50865f872fe20cfc5ea9aa6a909a0b0b9a0554
+58c284e7bbeacb5e1f91596660d33d0407d138ae0be545f59027f8787da75eda
+```
