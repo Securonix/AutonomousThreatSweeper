@@ -1,0 +1,1 @@
+https://www.veracode.com/blog/malicious-npm-package-targeting-github-actions/
