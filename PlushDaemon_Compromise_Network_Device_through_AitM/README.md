@@ -1,0 +1,17 @@
+
+## IOCs
+
+__domain__:
+
+```text
+ds20221202.dsc.wcsset.com
+test.dsc.wcsset.com
+```
+__hash__:
+
+```text
+8f569641691ecb3888cd4c11932a5b8e13f04b07
+06177810d61a69f34091cc9689b813740d4c260f
+69974455d8c13c5d57c1ee91e147ff9aed49aebc
+2857bc730952682d39f426d185769938e839a125
+```
