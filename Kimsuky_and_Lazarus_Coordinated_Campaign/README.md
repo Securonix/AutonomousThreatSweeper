@@ -4,7 +4,7 @@
 __domain__:
 
 ```text
-academic-symposium . info
+academic-symposium.info
 ```
 __hash__:
 
