@@ -1,0 +1,21 @@
+
+## IOCs
+
+__domain__:
+
+```text
+syn1112223334445556667778889990.org
+```
+__hash__:
+
+```text
+369479bd9a248c9448705c222d81ff1a0143343a138fc38fc0ea00f54fcc1598
+0b899508777d7ed5159e2a99a5eff60c54d0724493df3d630525b837fa43aa51
+```
+__url__:
+
+```text
+http://syn1112223334445556667778889990.org/lightshot.exe
+http://syn1112223334445556667778889990.org/lightshot.dll
+http://syn1112223334445556667778889990.org/lightshot.zip
+```
