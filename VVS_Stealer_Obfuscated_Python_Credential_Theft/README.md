@@ -1,0 +1,16 @@
+
+## IOCs
+
+__hash__:
+
+```text
+307d9cefa7a3147eb78c69eded273e47c08df44c2004f839548963268d19dd87
+7a1554383345f31f3482ba3729c1126af7c1d9376abb07ad3ee189660c166a2b
+c7e6591e5e021daa30f949a6f6e0699ef2935d2d7c06ea006e3b201c52666e07
+```
+__url__:
+
+```text
+https://ptb.discord.com/api/webhooks/1360401843963826236/tkfvxfhfxrbikt3eaqekjefvdvt39xtaxeoiwecesrbbnlkdr5ypcn75uiqkezdfs9o2
+https://ptb.discord.com/api/webhooks/1360259628440621087/yco9evniboysmn8xr6zx5c7ajf22z26wljajk4zr6iithnurvyfwczys6jjsc12ic8c0
+```
