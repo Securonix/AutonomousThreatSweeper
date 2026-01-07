@@ -1,0 +1,19 @@
+
+## IOCs
+
+__domain__:
+
+```text
+chataigpt.pro
+chatgptsidebar.pro
+deepaichats.com
+chatsaigpt.com
+deepseek.ai
+chatgptbuddy.com
+```
+__hash__:
+
+```text
+98d1f151872c27d0abae3887f7d6cb6e4ce29e99ad827cb077e1232bc4a69c00
+20ba72e91d7685926c8c1c5b4646616fa9d769e32c1bc4e9f15dddaf3429cea7
+```
